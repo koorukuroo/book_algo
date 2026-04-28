@@ -1,0 +1,12 @@
+ch01 85cc9dd9d34e
+ch02 1b5359dd4a30
+ch03 985aa221dbfe
+ch04 7012e51153f6
+ch05 b7ab75cd1fce
+ch06 336c7f8ef3d8
+ch07 3bcfeeac65e2
+ch08 b42fb9120269
+ch09 4a3b6d943de0
+ch10 6d48b4b9a6e1
+ch11 1549ce869d2d
+conclusion 14f70036d0ed
