@@ -1,0 +1,257 @@
+{
+  "fps": 30,
+  "cues": [
+    {
+      "text": "알고리즘, 인생을 계산하다.",
+      "fromFrame": 1,
+      "toFrame": 79,
+      "scene": "title"
+    },
+    {
+      "text": "챕터 5, 스케줄링.",
+      "fromFrame": 80,
+      "toFrame": 148,
+      "scene": "title"
+    },
+    {
+      "text": "무엇을 먼저 할까.",
+      "fromFrame": 167,
+      "toFrame": 208,
+      "scene": "title"
+    },
+    {
+      "text": "할 일 목록이 다섯 개 있습니다.",
+      "fromFrame": 273,
+      "toFrame": 344,
+      "scene": "hook"
+    },
+    {
+      "text": "어떤 것부터 처리해야 할까요?",
+      "fromFrame": 361,
+      "toFrame": 423,
+      "scene": "hook"
+    },
+    {
+      "text": "답은 무엇을 최적화하느냐에 달려 있습니다.",
+      "fromFrame": 454,
+      "toFrame": 572,
+      "scene": "hook"
+    },
+    {
+      "text": "같은 다섯 개도 어떤 지표를 줄이고 싶으냐에 따라",
+      "fromFrame": 593,
+      "toFrame": 709,
+      "scene": "hook"
+    },
+    {
+      "text": "처리 순서가 완전히 달라집니다.",
+      "fromFrame": 718,
+      "toFrame": 793,
+      "scene": "hook"
+    },
+    {
+      "text": "1955년, 수학자 잭슨은 마감이 가장 빠른",
+      "fromFrame": 845,
+      "toFrame": 963,
+      "scene": "edd"
+    },
+    {
+      "text": "것부터 처리하는 EDD가 최대 지연을",
+      "fromFrame": 966,
+      "toFrame": 1061,
+      "scene": "edd"
+    },
+    {
+      "text": "최소화함을 증명했습니다.",
+      "fromFrame": 1068,
+      "toFrame": 1159,
+      "scene": "edd"
+    },
+    {
+      "text": "한편 1956년 경영과학자 W.E.",
+      "fromFrame": 1168,
+      "toFrame": 1261,
+      "scene": "edd"
+    },
+    {
+      "text": "스미스는 짧은 작업부터 처리하는 SPT가",
+      "fromFrame": 1266,
+      "toFrame": 1371,
+      "scene": "edd"
+    },
+    {
+      "text": "완료 시간의 합을 줄인다는 사실을",
+      "fromFrame": 1386,
+      "toFrame": 1460,
+      "scene": "edd"
+    },
+    {
+      "text": "보였죠.",
+      "fromFrame": 1468,
+      "toFrame": 1515,
+      "scene": "edd"
+    },
+    {
+      "text": "이 단순한 규칙들이 공장, 콜센터,",
+      "fromFrame": 1516,
+      "toFrame": 1606,
+      "scene": "edd"
+    },
+    {
+      "text": "운영체제까지 지배합니다.",
+      "fromFrame": 1615,
+      "toFrame": 1704,
+      "scene": "edd"
+    },
+    {
+      "text": "무엇을 최적화할지 먼저 정하라.",
+      "fromFrame": 1705,
+      "toFrame": 1781,
+      "scene": "edd"
+    },
+    {
+      "text": "이것이 스케줄링의 첫 가르침입니다.",
+      "fromFrame": 1799,
+      "toFrame": 1888,
+      "scene": "edd"
+    },
+    {
+      "text": "그러나 진짜 문제는 작업이 들어오는 순간",
+      "fromFrame": 1921,
+      "toFrame": 2019,
+      "scene": "priority"
+    },
+    {
+      "text": "시작됩니다.",
+      "fromFrame": 2033,
+      "toFrame": 2092,
+      "scene": "priority"
+    },
+    {
+      "text": "우선순위 인버전, 즉 낮은 우선순위 작업이",
+      "fromFrame": 2093,
+      "toFrame": 2209,
+      "scene": "priority"
+    },
+    {
+      "text": "높은 우선순위 작업을 막는",
+      "fromFrame": 2225,
+      "toFrame": 2295,
+      "scene": "priority"
+    },
+    {
+      "text": "사태.",
+      "fromFrame": 2301,
+      "toFrame": 2351,
+      "scene": "priority"
+    },
+    {
+      "text": "1997년 화성 탐사선 패스파인더가 이",
+      "fromFrame": 2355,
+      "toFrame": 2463,
+      "scene": "priority"
+    },
+    {
+      "text": "문제로 위기에 빠졌습니다.",
+      "fromFrame": 2467,
+      "toFrame": 2534,
+      "scene": "priority"
+    },
+    {
+      "text": "해법은 단순합니다.",
+      "fromFrame": 2559,
+      "toFrame": 2599,
+      "scene": "priority"
+    },
+    {
+      "text": "자원을 쥐고 있는 작업에게 임시로 높은",
+      "fromFrame": 2618,
+      "toFrame": 2729,
+      "scene": "priority"
+    },
+    {
+      "text": "우선순위를 빌려주는 것.",
+      "fromFrame": 2732,
+      "toFrame": 2788,
+      "scene": "priority"
+    },
+    {
+      "text": "주의해야 할 것이 또 있습니다.",
+      "fromFrame": 2824,
+      "toFrame": 2880,
+      "scene": "thrashing"
+    },
+    {
+      "text": "너무 자주 전환하면 일이 진행되지 않는 쓰래싱.",
+      "fromFrame": 2907,
+      "toFrame": 3015,
+      "scene": "thrashing"
+    },
+    {
+      "text": "운영체제도, 사람도 마찬가지입니다.",
+      "fromFrame": 3048,
+      "toFrame": 3125,
+      "scene": "thrashing"
+    },
+    {
+      "text": "이메일 한 통 답하고 회의 가고 보고서 쓰고 다시",
+      "fromFrame": 3141,
+      "toFrame": 3251,
+      "scene": "thrashing"
+    },
+    {
+      "text": "이메일을 보면, 어느 것도 끝나지",
+      "fromFrame": 3253,
+      "toFrame": 3326,
+      "scene": "thrashing"
+    },
+    {
+      "text": "않습니다.",
+      "fromFrame": 3327,
+      "toFrame": 3376,
+      "scene": "thrashing"
+    },
+    {
+      "text": "컴퓨터는 일정 시간이 흐르면 인터럽트를무시합니다.",
+      "fromFrame": 3379,
+      "toFrame": 3486,
+      "scene": "thrashing"
+    },
+    {
+      "text": "우리도 가끔은 응답하지 않을 권리가 필요합니다.",
+      "fromFrame": 3513,
+      "toFrame": 3631,
+      "scene": "thrashing"
+    },
+    {
+      "text": "완벽한 스케줄을 추구하기보다, 무엇을",
+      "fromFrame": 3691,
+      "toFrame": 3790,
+      "scene": "outro"
+    },
+    {
+      "text": "최적화할지 정하고 그에 맞춰 단순하게",
+      "fromFrame": 3796,
+      "toFrame": 3894,
+      "scene": "outro"
+    },
+    {
+      "text": "가세요.",
+      "fromFrame": 3896,
+      "toFrame": 3942,
+      "scene": "outro"
+    },
+    {
+      "text": "다음 챕터에서는 베이지안 추론, 작은 정보로",
+      "fromFrame": 3943,
+      "toFrame": 4055,
+      "scene": "outro"
+    },
+    {
+      "text": "큰 예측을 하는 법을 배웁니다.",
+      "fromFrame": 4065,
+      "toFrame": 4126,
+      "scene": "outro"
+    }
+  ]
+}

@@ -34,8 +34,14 @@ export default function MeetingPage() {
               </p>
               <div className="flex flex-wrap gap-3">
                 <Link
-                  href="/"
+                  href="/meeting/script"
                   className="px-6 py-3 rounded-full bg-[var(--color-accent)] text-white font-display hover:opacity-90 transition shadow-md"
+                >
+                  ✍️ 발제문 읽기
+                </Link>
+                <Link
+                  href="/"
+                  className="px-6 py-3 rounded-full bg-white border-2 border-[var(--color-line)] font-display hover:border-[var(--color-accent)] transition"
                 >
                   📖 챕터 둘러보기
                 </Link>

@@ -1,0 +1,185 @@
+{
+  "fps": 30,
+  "cues": [
+    {
+      "text": "알고리즘, 인생을 계산하다.결론.",
+      "fromFrame": 0,
+      "toFrame": 118,
+      "scene": "title"
+    },
+    {
+      "text": "계산적 친절.",
+      "fromFrame": 142,
+      "toFrame": 177,
+      "scene": "title"
+    },
+    {
+      "text": "11개의 챕터를 지나오며 우리는 무엇을",
+      "fromFrame": 212,
+      "toFrame": 303,
+      "scene": "lesson"
+    },
+    {
+      "text": "배웠을까요?",
+      "fromFrame": 303,
+      "toFrame": 335,
+      "scene": "lesson"
+    },
+    {
+      "text": "가장 큰 교훈은 의외로 단순합니다.",
+      "fromFrame": 358,
+      "toFrame": 472,
+      "scene": "lesson"
+    },
+    {
+      "text": "최적을 추구하는 것 자체가 비용입니다.",
+      "fromFrame": 473,
+      "toFrame": 573,
+      "scene": "lesson"
+    },
+    {
+      "text": "완벽한 답을 찾으려는 노력보다, 충분히",
+      "fromFrame": 596,
+      "toFrame": 717,
+      "scene": "lesson"
+    },
+    {
+      "text": "좋은 답을 빠르게 찾는 지혜가 더",
+      "fromFrame": 717,
+      "toFrame": 810,
+      "scene": "lesson"
+    },
+    {
+      "text": "중요합니다.",
+      "fromFrame": 810,
+      "toFrame": 853,
+      "scene": "lesson"
+    },
+    {
+      "text": "이 책의 가장 따뜻한 통찰은 마지막에 있습니다.",
+      "fromFrame": 901,
+      "toFrame": 1012,
+      "scene": "kindness"
+    },
+    {
+      "text": "계산적 친절.",
+      "fromFrame": 1023,
+      "toFrame": 1058,
+      "scene": "kindness"
+    },
+    {
+      "text": "다른 사람의 인지적 부담을 줄여주는 것이야말로 가장",
+      "fromFrame": 1088,
+      "toFrame": 1198,
+      "scene": "kindness"
+    },
+    {
+      "text": "큰 친절입니다.",
+      "fromFrame": 1205,
+      "toFrame": 1269,
+      "scene": "kindness"
+    },
+    {
+      "text": "카페에서 메뉴를 골라달라고 묻는 것보다 무엇을",
+      "fromFrame": 1280,
+      "toFrame": 1382,
+      "scene": "kindness"
+    },
+    {
+      "text": "추천해주는 것.",
+      "fromFrame": 1388,
+      "toFrame": 1426,
+      "scene": "kindness"
+    },
+    {
+      "text": "회의 일정을 자유롭게 잡으라 하는 것보다 두 개의",
+      "fromFrame": 1445,
+      "toFrame": 1549,
+      "scene": "kindness"
+    },
+    {
+      "text": "선택지를 제시하는 것.",
+      "fromFrame": 1552,
+      "toFrame": 1608,
+      "scene": "kindness"
+    },
+    {
+      "text": "작은 배려가 큰 효율을 만듭니다.",
+      "fromFrame": 1624,
+      "toFrame": 1723,
+      "scene": "kindness"
+    },
+    {
+      "text": "알고리즘은 결정을 대신해주는 것이 아니라,",
+      "fromFrame": 1770,
+      "toFrame": 1860,
+      "scene": "wisdom"
+    },
+    {
+      "text": "결정의 무게를 함께 지는",
+      "fromFrame": 1875,
+      "toFrame": 1951,
+      "scene": "wisdom"
+    },
+    {
+      "text": "것입니다.",
+      "fromFrame": 1953,
+      "toFrame": 2010,
+      "scene": "wisdom"
+    },
+    {
+      "text": "37퍼센트의 규칙이 어떤 답을 주든, 결국",
+      "fromFrame": 2017,
+      "toFrame": 2120,
+      "scene": "wisdom"
+    },
+    {
+      "text": "결단은 우리가 합니다.",
+      "fromFrame": 2132,
+      "toFrame": 2215,
+      "scene": "wisdom"
+    },
+    {
+      "text": "탐색과 활용 중 무엇을 택하든, 그 균형은",
+      "fromFrame": 2227,
+      "toFrame": 2341,
+      "scene": "wisdom"
+    },
+    {
+      "text": "우리만이 알 수 있습니다.",
+      "fromFrame": 2353,
+      "toFrame": 2420,
+      "scene": "wisdom"
+    },
+    {
+      "text": "알고리즘은 좋은 동반자입니다.",
+      "fromFrame": 2433,
+      "toFrame": 2516,
+      "scene": "wisdom"
+    },
+    {
+      "text": "인생은 결국 알고리즘이 아닙니다.",
+      "fromFrame": 2551,
+      "toFrame": 2620,
+      "scene": "outro"
+    },
+    {
+      "text": "그러나 알고리즘은 인생을 더 잘 살게 합니다.",
+      "fromFrame": 2638,
+      "toFrame": 2737,
+      "scene": "outro"
+    },
+    {
+      "text": "함께 한 여정에 감사드립니다.",
+      "fromFrame": 2764,
+      "toFrame": 2820,
+      "scene": "outro"
+    },
+    {
+      "text": "이제 여러분의 이야기를 시작하세요.",
+      "fromFrame": 2834,
+      "toFrame": 2910,
+      "scene": "outro"
+    }
+  ]
+}

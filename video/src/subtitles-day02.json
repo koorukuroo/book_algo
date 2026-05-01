@@ -1,0 +1,773 @@
+{
+  "fps": 30,
+  "cues": [
+    {
+      "text": "VPC 네트워킹과 클라우드 인프라.",
+      "fromFrame": 1,
+      "toFrame": 87,
+      "scene": "title"
+    },
+    {
+      "text": "2일차, AWS 위에 우리만의 안전한",
+      "fromFrame": 108,
+      "toFrame": 214,
+      "scene": "title"
+    },
+    {
+      "text": "네트워크 도시를 직접 설계해봅니다.",
+      "fromFrame": 214,
+      "toFrame": 319,
+      "scene": "title"
+    },
+    {
+      "text": "예전 EC2 클래식 시절엔 같은 AWS",
+      "fromFrame": 362,
+      "toFrame": 471,
+      "scene": "why_vpc"
+    },
+    {
+      "text": "안에 다른 회사 서버랑 같은 네트워크에",
+      "fromFrame": 471,
+      "toFrame": 580,
+      "scene": "why_vpc"
+    },
+    {
+      "text": "섞여 있었어요.",
+      "fromFrame": 580,
+      "toFrame": 628,
+      "scene": "why_vpc"
+    },
+    {
+      "text": "옆집에서 우리 집 안방을 들여다볼 수",
+      "fromFrame": 633,
+      "toFrame": 724,
+      "scene": "why_vpc"
+    },
+    {
+      "text": "있는 셈이죠.",
+      "fromFrame": 724,
+      "toFrame": 761,
+      "scene": "why_vpc"
+    },
+    {
+      "text": "이 문제를 해결한 게 바로 VPC, 가상",
+      "fromFrame": 761,
+      "toFrame": 854,
+      "scene": "why_vpc"
+    },
+    {
+      "text": "사설 네트워크입니다.",
+      "fromFrame": 854,
+      "toFrame": 912,
+      "scene": "why_vpc"
+    },
+    {
+      "text": "VPC를 가장 쉽게 이해하는 방법은",
+      "fromFrame": 961,
+      "toFrame": 1062,
+      "scene": "apartment"
+    },
+    {
+      "text": "아파트 단지 비유입니다.",
+      "fromFrame": 1062,
+      "toFrame": 1136,
+      "scene": "apartment"
+    },
+    {
+      "text": "단지 전체 주소가 VPC, 동과 호수가",
+      "fromFrame": 1138,
+      "toFrame": 1243,
+      "scene": "apartment"
+    },
+    {
+      "text": "서브넷, 단지 정문이 인터넷 게이트웨이,",
+      "fromFrame": 1243,
+      "toFrame": 1360,
+      "scene": "apartment"
+    },
+    {
+      "text": "그리고 각 집의 도어락이 보안",
+      "fromFrame": 1360,
+      "toFrame": 1438,
+      "scene": "apartment"
+    },
+    {
+      "text": "그룹이에요.",
+      "fromFrame": 1438,
+      "toFrame": 1477,
+      "scene": "apartment"
+    },
+    {
+      "text": "이 한 장만 머릿속에 넣어두시면 됩니다.",
+      "fromFrame": 1507,
+      "toFrame": 1605,
+      "scene": "apartment"
+    },
+    {
+      "text": "VPC를 만들 때 가장 먼저 정하는 게",
+      "fromFrame": 1651,
+      "toFrame": 1740,
+      "scene": "cidr"
+    },
+    {
+      "text": "CIDR, IP 주소 범위입니다.",
+      "fromFrame": 1740,
+      "toFrame": 1828,
+      "scene": "cidr"
+    },
+    {
+      "text": "보통 10.0.0.0 슬래시 16처럼",
+      "fromFrame": 1829,
+      "toFrame": 1933,
+      "scene": "cidr"
+    },
+    {
+      "text": "잡아요.",
+      "fromFrame": 1933,
+      "toFrame": 1958,
+      "scene": "cidr"
+    },
+    {
+      "text": "슬래시 뒤 숫자는 고정된 비트 수예요.",
+      "fromFrame": 1980,
+      "toFrame": 2055,
+      "scene": "cidr"
+    },
+    {
+      "text": "슬래시 16이면 IP가 약 6만5천개,",
+      "fromFrame": 2072,
+      "toFrame": 2183,
+      "scene": "cidr"
+    },
+    {
+      "text": "슬래시 24면 256개.",
+      "fromFrame": 2183,
+      "toFrame": 2254,
+      "scene": "cidr"
+    },
+    {
+      "text": "클수록 좁은 동네라고 보시면 됩니다.",
+      "fromFrame": 2274,
+      "toFrame": 2355,
+      "scene": "cidr"
+    },
+    {
+      "text": "이 큰 네트워크를 그대로 쓰면 안 되고,",
+      "fromFrame": 2401,
+      "toFrame": 2496,
+      "scene": "subnet_split"
+    },
+    {
+      "text": "서브넷이라는 작은 구역으로 쪼갭니다.",
+      "fromFrame": 2496,
+      "toFrame": 2597,
+      "scene": "subnet_split"
+    },
+    {
+      "text": "서브넷은 반드시 가용 영역, 즉 AZ",
+      "fromFrame": 2598,
+      "toFrame": 2685,
+      "scene": "subnet_split"
+    },
+    {
+      "text": "별로 나눠야 해요.",
+      "fromFrame": 2685,
+      "toFrame": 2732,
+      "scene": "subnet_split"
+    },
+    {
+      "text": "한 AZ에 장애가 나도 다른 AZ가",
+      "fromFrame": 2759,
+      "toFrame": 2841,
+      "scene": "subnet_split"
+    },
+    {
+      "text": "살아있도록, 멀티 AZ는 선택이 아니라",
+      "fromFrame": 2841,
+      "toFrame": 2940,
+      "scene": "subnet_split"
+    },
+    {
+      "text": "필수입니다.",
+      "fromFrame": 2940,
+      "toFrame": 2976,
+      "scene": "subnet_split"
+    },
+    {
+      "text": "서브넷은 두 종류로 나뉩니다.",
+      "fromFrame": 3031,
+      "toFrame": 3089,
+      "scene": "public_private"
+    },
+    {
+      "text": "인터넷에 직접 노출되는 퍼블릭 서브넷,",
+      "fromFrame": 3119,
+      "toFrame": 3224,
+      "scene": "public_private"
+    },
+    {
+      "text": "그리고 안쪽 깊숙이 숨겨두는 프라이빗",
+      "fromFrame": 3224,
+      "toFrame": 3322,
+      "scene": "public_private"
+    },
+    {
+      "text": "서브넷.",
+      "fromFrame": 3322,
+      "toFrame": 3347,
+      "scene": "public_private"
+    },
+    {
+      "text": "웹 서버는 퍼블릭에, DB와 애플리케이션",
+      "fromFrame": 3362,
+      "toFrame": 3479,
+      "scene": "public_private"
+    },
+    {
+      "text": "서버는 프라이빗에 둡니다.",
+      "fromFrame": 3479,
+      "toFrame": 3557,
+      "scene": "public_private"
+    },
+    {
+      "text": "이 분리가 보안의 시작이에요.",
+      "fromFrame": 3558,
+      "toFrame": 3642,
+      "scene": "public_private"
+    },
+    {
+      "text": "이제 트래픽이 어디로 갈지 알려주는 도로",
+      "fromFrame": 3693,
+      "toFrame": 3793,
+      "scene": "routing"
+    },
+    {
+      "text": "표지판이 필요합니다.",
+      "fromFrame": 3793,
+      "toFrame": 3852,
+      "scene": "routing"
+    },
+    {
+      "text": "그게 라우팅 테이블이에요.",
+      "fromFrame": 3853,
+      "toFrame": 3904,
+      "scene": "routing"
+    },
+    {
+      "text": "0.0.0.0 슬래시 0이라는 기본",
+      "fromFrame": 3942,
+      "toFrame": 4041,
+      "scene": "routing"
+    },
+    {
+      "text": "경로가 인터넷 게이트웨이 IGW를",
+      "fromFrame": 4041,
+      "toFrame": 4133,
+      "scene": "routing"
+    },
+    {
+      "text": "가리키면 그 서브넷은 퍼블릭, NAT",
+      "fromFrame": 4133,
+      "toFrame": 4231,
+      "scene": "routing"
+    },
+    {
+      "text": "게이트웨이를 가리키거나 IGW가 없으면",
+      "fromFrame": 4231,
+      "toFrame": 4342,
+      "scene": "routing"
+    },
+    {
+      "text": "프라이빗이 됩니다.",
+      "fromFrame": 4342,
+      "toFrame": 4398,
+      "scene": "routing"
+    },
+    {
+      "text": "IGW는 VPC와 인터넷 사이의 단",
+      "fromFrame": 4442,
+      "toFrame": 4550,
+      "scene": "igw"
+    },
+    {
+      "text": "하나뿐인 정문입니다.",
+      "fromFrame": 4550,
+      "toFrame": 4621,
+      "scene": "igw"
+    },
+    {
+      "text": "VPC당 딱 1개.",
+      "fromFrame": 4624,
+      "toFrame": 4665,
+      "scene": "igw"
+    },
+    {
+      "text": "신기한 점은 만들기만 하면 자동으로",
+      "fromFrame": 4698,
+      "toFrame": 4778,
+      "scene": "igw"
+    },
+    {
+      "text": "가용성이 보장되고, 비용도 무료라는",
+      "fromFrame": 4778,
+      "toFrame": 4863,
+      "scene": "igw"
+    },
+    {
+      "text": "거예요.",
+      "fromFrame": 4863,
+      "toFrame": 4884,
+      "scene": "igw"
+    },
+    {
+      "text": "다만 라우팅 테이블에 연결을 빼먹으면",
+      "fromFrame": 4913,
+      "toFrame": 5005,
+      "scene": "igw"
+    },
+    {
+      "text": "EC2가 인터넷에 못 나갑니다.",
+      "fromFrame": 5005,
+      "toFrame": 5085,
+      "scene": "igw"
+    },
+    {
+      "text": "그럼 프라이빗 서브넷은 어떻게 인터넷에",
+      "fromFrame": 5131,
+      "toFrame": 5231,
+      "scene": "nat"
+    },
+    {
+      "text": "접근할까요?",
+      "fromFrame": 5231,
+      "toFrame": 5266,
+      "scene": "nat"
+    },
+    {
+      "text": "NAT 게이트웨이를 씁니다.",
+      "fromFrame": 5266,
+      "toFrame": 5336,
+      "scene": "nat"
+    },
+    {
+      "text": "프라이빗 서버가 보안 패치를 받으러",
+      "fromFrame": 5340,
+      "toFrame": 5425,
+      "scene": "nat"
+    },
+    {
+      "text": "외부에는 나갈 수 있지만, 외부에서는",
+      "fromFrame": 5425,
+      "toFrame": 5517,
+      "scene": "nat"
+    },
+    {
+      "text": "절대 들어오지 못하는 단방향 문이에요.",
+      "fromFrame": 5517,
+      "toFrame": 5614,
+      "scene": "nat"
+    },
+    {
+      "text": "단, NAT는 시간당 요금에 데이터 전송",
+      "fromFrame": 5615,
+      "toFrame": 5713,
+      "scene": "nat"
+    },
+    {
+      "text": "비용까지 드는, VPC에서 가장 비싼",
+      "fromFrame": 5713,
+      "toFrame": 5805,
+      "scene": "nat"
+    },
+    {
+      "text": "항목입니다.",
+      "fromFrame": 5805,
+      "toFrame": 5840,
+      "scene": "nat"
+    },
+    {
+      "text": "그래서 S3나 다이나모DB로 트래픽이",
+      "fromFrame": 5881,
+      "toFrame": 5971,
+      "scene": "vpc_endpoint"
+    },
+    {
+      "text": "많다면, VPC 엔드포인트를 쓰세요.",
+      "fromFrame": 5971,
+      "toFrame": 6062,
+      "scene": "vpc_endpoint"
+    },
+    {
+      "text": "인터넷을 거치지 않고 AWS 내부 망으로",
+      "fromFrame": 6089,
+      "toFrame": 6183,
+      "scene": "vpc_endpoint"
+    },
+    {
+      "text": "바로 연결되는 비밀 통로인데, 게이트웨이",
+      "fromFrame": 6183,
+      "toFrame": 6282,
+      "scene": "vpc_endpoint"
+    },
+    {
+      "text": "타입은 무료입니다.",
+      "fromFrame": 6282,
+      "toFrame": 6331,
+      "scene": "vpc_endpoint"
+    },
+    {
+      "text": "NAT 비용을 한 번에 줄일 수 있는",
+      "fromFrame": 6353,
+      "toFrame": 6414,
+      "scene": "vpc_endpoint"
+    },
+    {
+      "text": "베스트 프랙티스예요.",
+      "fromFrame": 6414,
+      "toFrame": 6458,
+      "scene": "vpc_endpoint"
+    },
+    {
+      "text": "이제 보안입니다.",
+      "fromFrame": 6511,
+      "toFrame": 6549,
+      "scene": "security_group"
+    },
+    {
+      "text": "보안 그룹은 EC2 한 대 한 대 앞에",
+      "fromFrame": 6568,
+      "toFrame": 6652,
+      "scene": "security_group"
+    },
+    {
+      "text": "서 있는 정문 경비원이에요.",
+      "fromFrame": 6652,
+      "toFrame": 6725,
+      "scene": "security_group"
+    },
+    {
+      "text": "Stateful, 즉 한 번 들여보낸",
+      "fromFrame": 6754,
+      "toFrame": 6836,
+      "scene": "security_group"
+    },
+    {
+      "text": "손님은 자동으로 나갈 길도 열어줍니다.",
+      "fromFrame": 6836,
+      "toFrame": 6923,
+      "scene": "security_group"
+    },
+    {
+      "text": "그리고 허용 규칙만 있어요.",
+      "fromFrame": 6945,
+      "toFrame": 7004,
+      "scene": "security_group"
+    },
+    {
+      "text": "명시적으로 거부하는 규칙은 만들 수",
+      "fromFrame": 7024,
+      "toFrame": 7110,
+      "scene": "security_group"
+    },
+    {
+      "text": "없습니다.",
+      "fromFrame": 7110,
+      "toFrame": 7138,
+      "scene": "security_group"
+    },
+    {
+      "text": "그 위에 NACL이라는 비상 차단봉이 또",
+      "fromFrame": 7172,
+      "toFrame": 7258,
+      "scene": "nacl"
+    },
+    {
+      "text": "있습니다.",
+      "fromFrame": 7258,
+      "toFrame": 7284,
+      "scene": "nacl"
+    },
+    {
+      "text": "서브넷 전체를 둘러싸는 Stateless",
+      "fromFrame": 7312,
+      "toFrame": 7392,
+      "scene": "nacl"
+    },
+    {
+      "text": "방화벽이에요.",
+      "fromFrame": 7392,
+      "toFrame": 7421,
+      "scene": "nacl"
+    },
+    {
+      "text": "들어오는 길과 나가는 길을 따로 관리해야",
+      "fromFrame": 7448,
+      "toFrame": 7531,
+      "scene": "nacl"
+    },
+    {
+      "text": "하지만, 거부 규칙도 만들 수 있죠.",
+      "fromFrame": 7531,
+      "toFrame": 7604,
+      "scene": "nacl"
+    },
+    {
+      "text": "평상시 보안은 SG로, 긴급 IP 차단은",
+      "fromFrame": 7631,
+      "toFrame": 7724,
+      "scene": "nacl"
+    },
+    {
+      "text": "NACL로 가는 게 정석입니다.",
+      "fromFrame": 7724,
+      "toFrame": 7801,
+      "scene": "nacl"
+    },
+    {
+      "text": "이걸 다 합치면 3-tier 아키텍처가",
+      "fromFrame": 7862,
+      "toFrame": 7966,
+      "scene": "three_tier"
+    },
+    {
+      "text": "됩니다.",
+      "fromFrame": 7966,
+      "toFrame": 7990,
+      "scene": "three_tier"
+    },
+    {
+      "text": "인터넷에서 들어온 패킷은 IGW를 지나,",
+      "fromFrame": 7991,
+      "toFrame": 8093,
+      "scene": "three_tier"
+    },
+    {
+      "text": "퍼블릭 서브넷의 웹 서버 보안 그룹을",
+      "fromFrame": 8093,
+      "toFrame": 8177,
+      "scene": "three_tier"
+    },
+    {
+      "text": "통과해서, 그 다음 프라이빗의 앱 서버,",
+      "fromFrame": 8177,
+      "toFrame": 8273,
+      "scene": "three_tier"
+    },
+    {
+      "text": "그 안쪽 DB 서버까지.",
+      "fromFrame": 8273,
+      "toFrame": 8330,
+      "scene": "three_tier"
+    },
+    {
+      "text": "각 계층마다 보안 그룹이 체인처럼",
+      "fromFrame": 8357,
+      "toFrame": 8434,
+      "scene": "three_tier"
+    },
+    {
+      "text": "연결됩니다.",
+      "fromFrame": 8434,
+      "toFrame": 8467,
+      "scene": "three_tier"
+    },
+    {
+      "text": "보안 그룹의 진짜 강력한 기능은 SG",
+      "fromFrame": 8523,
+      "toFrame": 8602,
+      "scene": "sg_chain"
+    },
+    {
+      "text": "to SG 참조예요.",
+      "fromFrame": 8602,
+      "toFrame": 8650,
+      "scene": "sg_chain"
+    },
+    {
+      "text": "IP 주소 대신 다른 보안 그룹 자체를",
+      "fromFrame": 8678,
+      "toFrame": 8774,
+      "scene": "sg_chain"
+    },
+    {
+      "text": "소스로 지정할 수 있죠.",
+      "fromFrame": 8774,
+      "toFrame": 8838,
+      "scene": "sg_chain"
+    },
+    {
+      "text": "웹 서버 100대가 늘어나도 앱 서버",
+      "fromFrame": 8838,
+      "toFrame": 8919,
+      "scene": "sg_chain"
+    },
+    {
+      "text": "보안 규칙은 단 한 줄.",
+      "fromFrame": 8919,
+      "toFrame": 8967,
+      "scene": "sg_chain"
+    },
+    {
+      "text": "sg-web에서 오는 트래픽을 허용한다.",
+      "fromFrame": 9000,
+      "toFrame": 9088,
+      "scene": "sg_chain"
+    },
+    {
+      "text": "운영이 극적으로 단순해집니다.",
+      "fromFrame": 9113,
+      "toFrame": 9194,
+      "scene": "sg_chain"
+    },
+    {
+      "text": "현장에서 가장 흔한 다섯 가지 실수도",
+      "fromFrame": 9241,
+      "toFrame": 9313,
+      "scene": "trouble"
+    },
+    {
+      "text": "알려드릴게요.",
+      "fromFrame": 9313,
+      "toFrame": 9346,
+      "scene": "trouble"
+    },
+    {
+      "text": "하나, 퍼블릭 EC2가 인터넷 안 됨.",
+      "fromFrame": 9368,
+      "toFrame": 9469,
+      "scene": "trouble"
+    },
+    {
+      "text": "보통 IGW를 만들어놓고 라우팅 테이블",
+      "fromFrame": 9498,
+      "toFrame": 9609,
+      "scene": "trouble"
+    },
+    {
+      "text": "연결을 안 한 경우입니다.",
+      "fromFrame": 9609,
+      "toFrame": 9681,
+      "scene": "trouble"
+    },
+    {
+      "text": "둘, NAT를 프라이빗 서브넷에 만든",
+      "fromFrame": 9682,
+      "toFrame": 9756,
+      "scene": "trouble"
+    },
+    {
+      "text": "케이스.",
+      "fromFrame": 9756,
+      "toFrame": 9774,
+      "scene": "trouble"
+    },
+    {
+      "text": "셋, NACL의 임시 포트를 빼먹어서",
+      "fromFrame": 9806,
+      "toFrame": 9910,
+      "scene": "trouble"
+    },
+    {
+      "text": "응답이 막힌 경우.",
+      "fromFrame": 9910,
+      "toFrame": 9961,
+      "scene": "trouble"
+    },
+    {
+      "text": "이 세 가지만 피해도 절반은 무사합니다.",
+      "fromFrame": 9962,
+      "toFrame": 10051,
+      "scene": "trouble"
+    },
+    {
+      "text": "오늘의 다섯 가지 핵심을 정리합니다.",
+      "fromFrame": 10112,
+      "toFrame": 10174,
+      "scene": "five_lessons"
+    },
+    {
+      "text": "첫째, VPC는 클라우드의 기본 토대다,",
+      "fromFrame": 10191,
+      "toFrame": 10291,
+      "scene": "five_lessons"
+    },
+    {
+      "text": "네트워크를 모르면 아키텍처가 안 짜진다.",
+      "fromFrame": 10291,
+      "toFrame": 10392,
+      "scene": "five_lessons"
+    },
+    {
+      "text": "둘째, 퍼블릭과 프라이빗 서브넷 분리가",
+      "fromFrame": 10419,
+      "toFrame": 10512,
+      "scene": "five_lessons"
+    },
+    {
+      "text": "보안의 시작이다.",
+      "fromFrame": 10512,
+      "toFrame": 10556,
+      "scene": "five_lessons"
+    },
+    {
+      "text": "셋째, 멀티 AZ는 선택이 아닌 필수다.",
+      "fromFrame": 10585,
+      "toFrame": 10704,
+      "scene": "five_lessons"
+    },
+    {
+      "text": "넷째, 보안 그룹은 허용만, NACL은",
+      "fromFrame": 10737,
+      "toFrame": 10836,
+      "scene": "five_lessons"
+    },
+    {
+      "text": "거부도 가능하다.",
+      "fromFrame": 10836,
+      "toFrame": 10882,
+      "scene": "five_lessons"
+    },
+    {
+      "text": "다섯째, NAT 비용을 줄이려면 VPC",
+      "fromFrame": 10914,
+      "toFrame": 11018,
+      "scene": "five_lessons"
+    },
+    {
+      "text": "엔드포인트를 먼저 검토하라.",
+      "fromFrame": 11018,
+      "toFrame": 11098,
+      "scene": "five_lessons"
+    },
+    {
+      "text": "내일 3일차에는 이 네트워크 위에 올릴",
+      "fromFrame": 11131,
+      "toFrame": 11221,
+      "scene": "outro"
+    },
+    {
+      "text": "첫 리소스, EC2 인스턴스와 EBS",
+      "fromFrame": 11221,
+      "toFrame": 11311,
+      "scene": "outro"
+    },
+    {
+      "text": "스토리지로 들어갑니다.",
+      "fromFrame": 11311,
+      "toFrame": 11373,
+      "scene": "outro"
+    },
+    {
+      "text": "오늘 만든 단단한 네트워크 토대 위에",
+      "fromFrame": 11397,
+      "toFrame": 11485,
+      "scene": "outro"
+    },
+    {
+      "text": "진짜 서버를 올려볼 시간이에요.",
+      "fromFrame": 11485,
+      "toFrame": 11566,
+      "scene": "outro"
+    }
+  ]
+}

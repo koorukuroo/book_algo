@@ -1,0 +1,257 @@
+{
+  "fps": 30,
+  "cues": [
+    {
+      "text": "알고리즘, 인생을 계산하다.",
+      "fromFrame": 1,
+      "toFrame": 69,
+      "scene": "title"
+    },
+    {
+      "text": "챕터 6, 베이즈 규칙.",
+      "fromFrame": 69,
+      "toFrame": 132,
+      "scene": "title"
+    },
+    {
+      "text": "작은 정보로 큰 예측을.",
+      "fromFrame": 148,
+      "toFrame": 213,
+      "scene": "title"
+    },
+    {
+      "text": "1969년, 베를린 장벽 앞에 선",
+      "fromFrame": 275,
+      "toFrame": 374,
+      "scene": "hook"
+    },
+    {
+      "text": "22살의 리처드 곳은 자문했습니다.",
+      "fromFrame": 374,
+      "toFrame": 488,
+      "scene": "hook"
+    },
+    {
+      "text": "이 장벽은 얼마나 더 갈까.",
+      "fromFrame": 489,
+      "toFrame": 597,
+      "scene": "hook"
+    },
+    {
+      "text": "정보는 단 하나, 지금까지 8년 됐다는",
+      "fromFrame": 598,
+      "toFrame": 716,
+      "scene": "hook"
+    },
+    {
+      "text": "것.",
+      "fromFrame": 716,
+      "toFrame": 730,
+      "scene": "hook"
+    },
+    {
+      "text": "이 작은 정보로 충분히 답할 수",
+      "fromFrame": 731,
+      "toFrame": 802,
+      "scene": "hook"
+    },
+    {
+      "text": "있을까요?",
+      "fromFrame": 802,
+      "toFrame": 831,
+      "scene": "hook"
+    },
+    {
+      "text": "곳의 답은 천재적이었습니다.",
+      "fromFrame": 870,
+      "toFrame": 973,
+      "scene": "copernicus"
+    },
+    {
+      "text": "코페르니쿠스 원리, 우리가 특별히 운 좋은 시점에",
+      "fromFrame": 974,
+      "toFrame": 1090,
+      "scene": "copernicus"
+    },
+    {
+      "text": "본 것이 아니라면, 지금까지 X 시간",
+      "fromFrame": 1093,
+      "toFrame": 1199,
+      "scene": "copernicus"
+    },
+    {
+      "text": "지속된 것은 앞으로 X만큼 더 갈",
+      "fromFrame": 1202,
+      "toFrame": 1302,
+      "scene": "copernicus"
+    },
+    {
+      "text": "것이다.",
+      "fromFrame": 1305,
+      "toFrame": 1357,
+      "scene": "copernicus"
+    },
+    {
+      "text": "8년 된 장벽은 약 8년 더.",
+      "fromFrame": 1358,
+      "toFrame": 1433,
+      "scene": "copernicus"
+    },
+    {
+      "text": "실제로는 28년까지 갔지만, 정보가 전혀",
+      "fromFrame": 1455,
+      "toFrame": 1573,
+      "scene": "copernicus"
+    },
+    {
+      "text": "없는 상황에서 이만한 추정도 없습니다.",
+      "fromFrame": 1575,
+      "toFrame": 1666,
+      "scene": "copernicus"
+    },
+    {
+      "text": "무정보 prior의 위력입니다.",
+      "fromFrame": 1687,
+      "toFrame": 1767,
+      "scene": "copernicus"
+    },
+    {
+      "text": "그러나 분포의 종류에 따라 예측은 완전히",
+      "fromFrame": 1800,
+      "toFrame": 1891,
+      "scene": "priors"
+    },
+    {
+      "text": "달라집니다.",
+      "fromFrame": 1893,
+      "toFrame": 1923,
+      "scene": "priors"
+    },
+    {
+      "text": "사람의 수명은 정규분포.",
+      "fromFrame": 1943,
+      "toFrame": 1997,
+      "scene": "priors"
+    },
+    {
+      "text": "평균에 가까울수록 곧 끝납니다.",
+      "fromFrame": 2019,
+      "toFrame": 2097,
+      "scene": "priors"
+    },
+    {
+      "text": "영화 흥행은 멱법칙.",
+      "fromFrame": 2117,
+      "toFrame": 2168,
+      "scene": "priors"
+    },
+    {
+      "text": "오래 갈수록 더 오래 갑니다.",
+      "fromFrame": 2186,
+      "toFrame": 2245,
+      "scene": "priors"
+    },
+    {
+      "text": "도박은 메모리리스.",
+      "fromFrame": 2271,
+      "toFrame": 2316,
+      "scene": "priors"
+    },
+    {
+      "text": "그래서 한 판만 더라는 외침이 영원히 반복되죠.",
+      "fromFrame": 2336,
+      "toFrame": 2443,
+      "scene": "priors"
+    },
+    {
+      "text": "같은 지금까지 X라는 정보로도, 좋은 예측은",
+      "fromFrame": 2476,
+      "toFrame": 2582,
+      "scene": "priors"
+    },
+    {
+      "text": "좋은 prior에서 나옵니다.",
+      "fromFrame": 2591,
+      "toFrame": 2654,
+      "scene": "priors"
+    },
+    {
+      "text": "1812년, 라플라스는 작은 표본의 비밀을",
+      "fromFrame": 2713,
+      "toFrame": 2819,
+      "scene": "small"
+    },
+    {
+      "text": "풀었습니다.",
+      "fromFrame": 2827,
+      "toFrame": 2877,
+      "scene": "small"
+    },
+    {
+      "text": "100번 시도해 60번 성공한 사건의 진짜 확률",
+      "fromFrame": 2879,
+      "toFrame": 2994,
+      "scene": "small"
+    },
+    {
+      "text": "추정값은 단순히 60퍼센트가 아니라,",
+      "fromFrame": 2998,
+      "toFrame": 3102,
+      "scene": "small"
+    },
+    {
+      "text": "102분의 61, 약",
+      "fromFrame": 3120,
+      "toFrame": 3225,
+      "scene": "small"
+    },
+    {
+      "text": "59.8퍼센트입니다.",
+      "fromFrame": 3239,
+      "toFrame": 3314,
+      "scene": "small"
+    },
+    {
+      "text": "한 번도 안 해본 일은 50대 50으로 시작하죠.",
+      "fromFrame": 3315,
+      "toFrame": 3423,
+      "scene": "small"
+    },
+    {
+      "text": "이것이 라플라스의 계승 법칙.",
+      "fromFrame": 3449,
+      "toFrame": 3525,
+      "scene": "small"
+    },
+    {
+      "text": "작은 정보로도 합리적 추론이 가능합니다.",
+      "fromFrame": 3548,
+      "toFrame": 3657,
+      "scene": "small"
+    },
+    {
+      "text": "데이터가 말해주지 않는 것은 prior가채웁니다.",
+      "fromFrame": 3691,
+      "toFrame": 3793,
+      "scene": "outro"
+    },
+    {
+      "text": "좋은 가정은 좋은 답을 만듭니다.",
+      "fromFrame": 3813,
+      "toFrame": 3918,
+      "scene": "outro"
+    },
+    {
+      "text": "다음 챕터에서는 과적합, 너무 잘 맞히려는 함정을",
+      "fromFrame": 3919,
+      "toFrame": 4039,
+      "scene": "outro"
+    },
+    {
+      "text": "살펴봅니다.",
+      "fromFrame": 4043,
+      "toFrame": 4071,
+      "scene": "outro"
+    }
+  ]
+}

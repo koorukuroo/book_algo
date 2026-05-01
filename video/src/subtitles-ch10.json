@@ -1,0 +1,221 @@
+{
+  "fps": 30,
+  "cues": [
+    {
+      "text": "알고리즘, 인생을 계산하다.",
+      "fromFrame": 1,
+      "toFrame": 69,
+      "scene": "title"
+    },
+    {
+      "text": "챕터 10, 네트워킹.",
+      "fromFrame": 81,
+      "toFrame": 130,
+      "scene": "title"
+    },
+    {
+      "text": "함께 일하는 법.",
+      "fromFrame": 146,
+      "toFrame": 182,
+      "scene": "title"
+    },
+    {
+      "text": "약속을 자꾸 어기는 친구에게 언제 다시 연락해야",
+      "fromFrame": 242,
+      "toFrame": 348,
+      "scene": "hook"
+    },
+    {
+      "text": "할까요?",
+      "fromFrame": 350,
+      "toFrame": 392,
+      "scene": "hook"
+    },
+    {
+      "text": "매일 보낼 수도, 영원히 침묵할 수도",
+      "fromFrame": 393,
+      "toFrame": 469,
+      "scene": "hook"
+    },
+    {
+      "text": "없습니다.",
+      "fromFrame": 477,
+      "toFrame": 534,
+      "scene": "hook"
+    },
+    {
+      "text": "1971년, 하와이대의 노먼 에이브람슨은",
+      "fromFrame": 536,
+      "toFrame": 643,
+      "scene": "hook"
+    },
+    {
+      "text": "같은 문제를 무선 네트워크에서 풀었습니다.",
+      "fromFrame": 658,
+      "toFrame": 755,
+      "scene": "hook"
+    },
+    {
+      "text": "알로하넷의 탄생입니다.",
+      "fromFrame": 771,
+      "toFrame": 832,
+      "scene": "hook"
+    },
+    {
+      "text": "에이브람슨의 답은 지수적 백오프.",
+      "fromFrame": 871,
+      "toFrame": 949,
+      "scene": "backoff"
+    },
+    {
+      "text": "한 번 실패하면 한 번 기다리고, 두 번 실패하면 두",
+      "fromFrame": 971,
+      "toFrame": 1086,
+      "scene": "backoff"
+    },
+    {
+      "text": "번, 네 번, 여덟 번 기다리는 것.",
+      "fromFrame": 1089,
+      "toFrame": 1175,
+      "scene": "backoff"
+    },
+    {
+      "text": "이 우아한 알고리즘이 오늘날 인터넷, 와이파이,",
+      "fromFrame": 1203,
+      "toFrame": 1312,
+      "scene": "backoff"
+    },
+    {
+      "text": "블루투스의 핵심에 있습니다.",
+      "fromFrame": 1318,
+      "toFrame": 1408,
+      "scene": "backoff"
+    },
+    {
+      "text": "유한한 인내와 무한한 자비를 동시에 가능케",
+      "fromFrame": 1427,
+      "toFrame": 1543,
+      "scene": "backoff"
+    },
+    {
+      "text": "하는 마법입니다.",
+      "fromFrame": 1544,
+      "toFrame": 1590,
+      "scene": "backoff"
+    },
+    {
+      "text": "1980년대, TCP 프로토콜은 또 하나의",
+      "fromFrame": 1627,
+      "toFrame": 1745,
+      "scene": "tcp"
+    },
+    {
+      "text": "비밀을 발견했습니다.",
+      "fromFrame": 1749,
+      "toFrame": 1841,
+      "scene": "tcp"
+    },
+    {
+      "text": "AIMD, 가산 증가와 곱셈 감소.",
+      "fromFrame": 1847,
+      "toFrame": 1955,
+      "scene": "tcp"
+    },
+    {
+      "text": "잘 되면 조금씩 더 빨리, 막히면 절반으로확 줄여라.",
+      "fromFrame": 1984,
+      "toFrame": 2128,
+      "scene": "tcp"
+    },
+    {
+      "text": "도로의 차 흐름, 전기 사용량, 회사의 매출목표까지.",
+      "fromFrame": 2167,
+      "toFrame": 2296,
+      "scene": "tcp"
+    },
+    {
+      "text": "모두 같은 패턴을 따릅니다.",
+      "fromFrame": 2313,
+      "toFrame": 2403,
+      "scene": "tcp"
+    },
+    {
+      "text": "좋을 땐 천천히, 나쁠 땐 단숨에.",
+      "fromFrame": 2413,
+      "toFrame": 2505,
+      "scene": "tcp"
+    },
+    {
+      "text": "그러나 너무 큰 버퍼는 오히려",
+      "fromFrame": 2551,
+      "toFrame": 2619,
+      "scene": "buffer"
+    },
+    {
+      "text": "독입니다.",
+      "fromFrame": 2623,
+      "toFrame": 2682,
+      "scene": "buffer"
+    },
+    {
+      "text": "2010년대, 짐 게팅스는 버퍼블로트 현상을",
+      "fromFrame": 2682,
+      "toFrame": 2787,
+      "scene": "buffer"
+    },
+    {
+      "text": "발견했습니다.",
+      "fromFrame": 2790,
+      "toFrame": 2826,
+      "scene": "buffer"
+    },
+    {
+      "text": "데이터를 버리지 않고 끝없이 쌓아두면, 응답",
+      "fromFrame": 2843,
+      "toFrame": 2947,
+      "scene": "buffer"
+    },
+    {
+      "text": "시간이 폭발적으로 늘어나는 것.",
+      "fromFrame": 2951,
+      "toFrame": 3030,
+      "scene": "buffer"
+    },
+    {
+      "text": "인생도 같습니다.",
+      "fromFrame": 3048,
+      "toFrame": 3080,
+      "scene": "buffer"
+    },
+    {
+      "text": "모든 일정을 받아들이면 어느 것도 제때 끝낼 수없습니다.",
+      "fromFrame": 3101,
+      "toFrame": 3239,
+      "scene": "buffer"
+    },
+    {
+      "text": "가끔은 버려야 흐름이 살아납니다.",
+      "fromFrame": 3257,
+      "toFrame": 3349,
+      "scene": "buffer"
+    },
+    {
+      "text": "네트워킹은 거리의 문제가 아니라 흐름의 문제.",
+      "fromFrame": 3392,
+      "toFrame": 3490,
+      "scene": "outro"
+    },
+    {
+      "text": "가끔은 양보하고, 가끔은 버리세요.",
+      "fromFrame": 3512,
+      "toFrame": 3625,
+      "scene": "outro"
+    },
+    {
+      "text": "마지막 챕터에서는 게임 이론, 합리성의 한계를살펴봅니다.",
+      "fromFrame": 3639,
+      "toFrame": 3776,
+      "scene": "outro"
+    }
+  ]
+}

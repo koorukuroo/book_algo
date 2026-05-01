@@ -1,0 +1,263 @@
+{
+  "fps": 30,
+  "cues": [
+    {
+      "text": "알고리즘, 인생을 계산하다.",
+      "fromFrame": 0,
+      "toFrame": 76,
+      "scene": "title"
+    },
+    {
+      "text": "챕터 3, 정렬.",
+      "fromFrame": 98,
+      "toFrame": 147,
+      "scene": "title"
+    },
+    {
+      "text": "질서를 만드는 법.",
+      "fromFrame": 172,
+      "toFrame": 220,
+      "scene": "title"
+    },
+    {
+      "text": "MIT 학부생 시절 대니 힐리스의",
+      "fromFrame": 273,
+      "toFrame": 354,
+      "scene": "hook"
+    },
+    {
+      "text": "룸메이트는 빨래 통에서 양말 두 개를",
+      "fromFrame": 354,
+      "toFrame": 440,
+      "scene": "hook"
+    },
+    {
+      "text": "꺼내 짝이 안 맞으면 다시 던져",
+      "fromFrame": 440,
+      "toFrame": 510,
+      "scene": "hook"
+    },
+    {
+      "text": "넣었습니다.",
+      "fromFrame": 510,
+      "toFrame": 545,
+      "scene": "hook"
+    },
+    {
+      "text": "10쌍이라면 무려 110번이 필요한",
+      "fromFrame": 569,
+      "toFrame": 672,
+      "scene": "hook"
+    },
+    {
+      "text": "비효율의 극치.",
+      "fromFrame": 672,
+      "toFrame": 717,
+      "scene": "hook"
+    },
+    {
+      "text": "정렬은 단순해 보이지만, 컴퓨터 과학의",
+      "fromFrame": 755,
+      "toFrame": 852,
+      "scene": "hook"
+    },
+    {
+      "text": "가장 깊은 통찰이 숨어 있습니다.",
+      "fromFrame": 852,
+      "toFrame": 932,
+      "scene": "hook"
+    },
+    {
+      "text": "정렬에는 근본적인 법칙이 있습니다.",
+      "fromFrame": 990,
+      "toFrame": 1078,
+      "scene": "bigO"
+    },
+    {
+      "text": "규모가 커지면 비용이 폭발한다.",
+      "fromFrame": 1078,
+      "toFrame": 1153,
+      "scene": "bigO"
+    },
+    {
+      "text": "항목이 두 배가 되면 작업은 네 배가 될 수 있죠.",
+      "fromFrame": 1176,
+      "toFrame": 1270,
+      "scene": "bigO"
+    },
+    {
+      "text": "인접한 두 항목을 계속 바꾸는 버블 정렬은",
+      "fromFrame": 1297,
+      "toFrame": 1396,
+      "scene": "bigO"
+    },
+    {
+      "text": "이차 시간, 즉 빅오 엔 제곱.",
+      "fromFrame": 1410,
+      "toFrame": 1487,
+      "scene": "bigO"
+    },
+    {
+      "text": "폰 노이만이 1945년에 만든 병합 정렬은",
+      "fromFrame": 1519,
+      "toFrame": 1622,
+      "scene": "bigO"
+    },
+    {
+      "text": "분할 정복으로 엔로그엔, 이론적한계입니다.",
+      "fromFrame": 1642,
+      "toFrame": 1763,
+      "scene": "bigO"
+    },
+    {
+      "text": "인구조사급 데이터에서는 3억 번 패스가",
+      "fromFrame": 1792,
+      "toFrame": 1883,
+      "scene": "bigO"
+    },
+    {
+      "text": "29번으로 줄어듭니다.",
+      "fromFrame": 1892,
+      "toFrame": 1947,
+      "scene": "bigO"
+    },
+    {
+      "text": "1883년, 이상한 나라의 앨리스 작가 루이스",
+      "fromFrame": 1995,
+      "toFrame": 2103,
+      "scene": "tournament"
+    },
+    {
+      "text": "캐럴은 옥스퍼드 수학 강사로서 잔디 테니스",
+      "fromFrame": 2105,
+      "toFrame": 2219,
+      "scene": "tournament"
+    },
+    {
+      "text": "토너먼트를 분석했습니다.",
+      "fromFrame": 2221,
+      "toFrame": 2287,
+      "scene": "tournament"
+    },
+    {
+      "text": "자기보다 실력이 떨어지는 선수가 2등 메달을",
+      "fromFrame": 2303,
+      "toFrame": 2399,
+      "scene": "tournament"
+    },
+    {
+      "text": "받았다며 한탄하는 한 선수의 사연에서 출발했죠.",
+      "fromFrame": 2401,
+      "toFrame": 2514,
+      "scene": "tournament"
+    },
+    {
+      "text": "그의 결론, 단판 토너먼트에서 진짜",
+      "fromFrame": 2547,
+      "toFrame": 2663,
+      "scene": "tournament"
+    },
+    {
+      "text": "2등이 2등 메달을 받을 확률은 31분의",
+      "fromFrame": 2666,
+      "toFrame": 2781,
+      "scene": "tournament"
+    },
+    {
+      "text": "16에 불과.",
+      "fromFrame": 2782,
+      "toFrame": 2816,
+      "scene": "tournament"
+    },
+    {
+      "text": "은메달은 거짓말이다.",
+      "fromFrame": 2845,
+      "toFrame": 2917,
+      "scene": "tournament"
+    },
+    {
+      "text": "미국 농구의 마치 매드니스도 같은 한계를 안고있습니다.",
+      "fromFrame": 2933,
+      "toFrame": 3057,
+      "scene": "tournament"
+    },
+    {
+      "text": "그런데 컴퓨터 과학자들은 충격적인 결론을내립니다.",
+      "fromFrame": 3090,
+      "toFrame": 3213,
+      "scene": "dontSort"
+    },
+    {
+      "text": "정렬할 가치가 없는 것을 정렬하지 마라.",
+      "fromFrame": 3240,
+      "toFrame": 3346,
+      "scene": "dontSort"
+    },
+    {
+      "text": "검색하지 않을 것을 정렬하는 건 완전한 낭비,",
+      "fromFrame": 3363,
+      "toFrame": 3483,
+      "scene": "dontSort"
+    },
+    {
+      "text": "정렬되지 않은 것을 검색하는 건 그저 비효율적일뿐.",
+      "fromFrame": 3502,
+      "toFrame": 3629,
+      "scene": "dontSort"
+    },
+    {
+      "text": "이메일 폴더 정리에 인생을 낭비할 필요 없습니다.",
+      "fromFrame": 3670,
+      "toFrame": 3776,
+      "scene": "dontSort"
+    },
+    {
+      "text": "그저 검색하면 됩니다.",
+      "fromFrame": 3791,
+      "toFrame": 3884,
+      "scene": "dontSort"
+    },
+    {
+      "text": "어수선한 쪽에 베팅하세요.",
+      "fromFrame": 3885,
+      "toFrame": 3944,
+      "scene": "dontSort"
+    },
+    {
+      "text": "위계는 사실 정보의 위계입니다.",
+      "fromFrame": 3992,
+      "toFrame": 4074,
+      "scene": "outro"
+    },
+    {
+      "text": "매일의 쥐 경주를 한탄하지만, 싸움이 아니라",
+      "fromFrame": 4104,
+      "toFrame": 4205,
+      "scene": "outro"
+    },
+    {
+      "text": "경주라는 점이야말로 우리를 원숭이와",
+      "fromFrame": 4214,
+      "toFrame": 4314,
+      "scene": "outro"
+    },
+    {
+      "text": "닭과 구분 짓습니다.",
+      "fromFrame": 4323,
+      "toFrame": 4382,
+      "scene": "outro"
+    },
+    {
+      "text": "다음 챕터에서는 캐싱, 잊어버려도 괜찮은",
+      "fromFrame": 4406,
+      "toFrame": 4519,
+      "scene": "outro"
+    },
+    {
+      "text": "기술을 살펴봅니다.",
+      "fromFrame": 4522,
+      "toFrame": 4566,
+      "scene": "outro"
+    }
+  ]
+}

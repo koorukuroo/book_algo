@@ -1,0 +1,227 @@
+{
+  "fps": 30,
+  "cues": [
+    {
+      "text": "알고리즘, 인생을 계산하다.",
+      "fromFrame": 0,
+      "toFrame": 72,
+      "scene": "title"
+    },
+    {
+      "text": "챕터 7, 과적합.",
+      "fromFrame": 73,
+      "toFrame": 141,
+      "scene": "title"
+    },
+    {
+      "text": "너무 잘 맞히려는 함정.",
+      "fromFrame": 164,
+      "toFrame": 228,
+      "scene": "title"
+    },
+    {
+      "text": "8개의 학습 점에 곡선을 맞춰봅시다.",
+      "fromFrame": 271,
+      "toFrame": 370,
+      "scene": "hook"
+    },
+    {
+      "text": "직선은 너무 단순하고, 7차 다항식은",
+      "fromFrame": 392,
+      "toFrame": 493,
+      "scene": "hook"
+    },
+    {
+      "text": "모든 점을 완벽하게 통과합니다.",
+      "fromFrame": 493,
+      "toFrame": 582,
+      "scene": "hook"
+    },
+    {
+      "text": "그런데 어느 쪽이 더 나은 모델일까요?",
+      "fromFrame": 605,
+      "toFrame": 703,
+      "scene": "hook"
+    },
+    {
+      "text": "놀랍게도 답은 단순한 직선 쪽입니다.",
+      "fromFrame": 726,
+      "toFrame": 843,
+      "scene": "hook"
+    },
+    {
+      "text": "복잡한 모델은 학습 데이터의 노이즈까지",
+      "fromFrame": 901,
+      "toFrame": 987,
+      "scene": "overfit"
+    },
+    {
+      "text": "외워버립니다.",
+      "fromFrame": 992,
+      "toFrame": 1017,
+      "scene": "overfit"
+    },
+    {
+      "text": "이것이 과적합.",
+      "fromFrame": 1037,
+      "toFrame": 1077,
+      "scene": "overfit"
+    },
+    {
+      "text": "학습 점은 완벽히 통과하지만, 그 사이에서는",
+      "fromFrame": 1104,
+      "toFrame": 1208,
+      "scene": "overfit"
+    },
+    {
+      "text": "제멋대로 출렁이고, 새 데이터에 대해서는",
+      "fromFrame": 1212,
+      "toFrame": 1311,
+      "scene": "overfit"
+    },
+    {
+      "text": "완전히 빗나갑니다.",
+      "fromFrame": 1317,
+      "toFrame": 1393,
+      "scene": "overfit"
+    },
+    {
+      "text": "데이터가 적을수록, 진짜 신호보다 노이즈를",
+      "fromFrame": 1396,
+      "toFrame": 1507,
+      "scene": "overfit"
+    },
+    {
+      "text": "외울 위험이 커집니다.",
+      "fromFrame": 1512,
+      "toFrame": 1564,
+      "scene": "overfit"
+    },
+    {
+      "text": "1996년, 통계학자 로버트 팁시라니는",
+      "fromFrame": 1632,
+      "toFrame": 1729,
+      "scene": "regularize"
+    },
+    {
+      "text": "라쏘 회귀를 발표했습니다.",
+      "fromFrame": 1743,
+      "toFrame": 1827,
+      "scene": "regularize"
+    },
+    {
+      "text": "모델의 복잡성에 페널티를 매겨, 강제로",
+      "fromFrame": 1828,
+      "toFrame": 1922,
+      "scene": "regularize"
+    },
+    {
+      "text": "단순함을 추구하게 만드는 정규화.",
+      "fromFrame": 1932,
+      "toFrame": 2015,
+      "scene": "regularize"
+    },
+    {
+      "text": "같은 원리가 일상에도 작동합니다.",
+      "fromFrame": 2053,
+      "toFrame": 2150,
+      "scene": "regularize"
+    },
+    {
+      "text": "늦지 않게 결정하라, 너무 많이 고민하지",
+      "fromFrame": 2151,
+      "toFrame": 2257,
+      "scene": "regularize"
+    },
+    {
+      "text": "마라.",
+      "fromFrame": 2258,
+      "toFrame": 2308,
+      "scene": "regularize"
+    },
+    {
+      "text": "의사결정에서도 단순성은 견고함을 만듭니다.",
+      "fromFrame": 2308,
+      "toFrame": 2426,
+      "scene": "regularize"
+    },
+    {
+      "text": "또 다른 해법은 일찍 멈추기.",
+      "fromFrame": 2461,
+      "toFrame": 2536,
+      "scene": "earlystop"
+    },
+    {
+      "text": "학습이 일정 수준 진행되면 더 가르치지 않는것입니다.",
+      "fromFrame": 2565,
+      "toFrame": 2693,
+      "scene": "earlystop"
+    },
+    {
+      "text": "군대의 훈련 기간, 신혼여행의 일정,",
+      "fromFrame": 2722,
+      "toFrame": 2814,
+      "scene": "earlystop"
+    },
+    {
+      "text": "회사의 시제품 출시 시기.",
+      "fromFrame": 2833,
+      "toFrame": 2903,
+      "scene": "earlystop"
+    },
+    {
+      "text": "모두 일찍 멈추기의",
+      "fromFrame": 2925,
+      "toFrame": 2979,
+      "scene": "earlystop"
+    },
+    {
+      "text": "변형입니다.",
+      "fromFrame": 2987,
+      "toFrame": 3056,
+      "scene": "earlystop"
+    },
+    {
+      "text": "2005년 말콤 글래드웰은 블링크에서, 짧은",
+      "fromFrame": 3057,
+      "toFrame": 3172,
+      "scene": "earlystop"
+    },
+    {
+      "text": "관찰이 긴 관찰보다 정확할 수 있음을",
+      "fromFrame": 3175,
+      "toFrame": 3278,
+      "scene": "earlystop"
+    },
+    {
+      "text": "보여줬습니다.",
+      "fromFrame": 3287,
+      "toFrame": 3314,
+      "scene": "earlystop"
+    },
+    {
+      "text": "단순함은 게으름이 아니라 견고함입니다.",
+      "fromFrame": 3360,
+      "toFrame": 3454,
+      "scene": "outro"
+    },
+    {
+      "text": "너무 잘하려 하지 마세요.",
+      "fromFrame": 3473,
+      "toFrame": 3534,
+      "scene": "outro"
+    },
+    {
+      "text": "다음 챕터에서는 완화, 풀 수 없는 문제를 푸는",
+      "fromFrame": 3551,
+      "toFrame": 3665,
+      "scene": "outro"
+    },
+    {
+      "text": "법을 배웁니다.",
+      "fromFrame": 3668,
+      "toFrame": 3703,
+      "scene": "outro"
+    }
+  ]
+}

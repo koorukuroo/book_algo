@@ -35,3 +35,9 @@ pnpm-debug.log*
 # Source materials (do not redistribute)
 *.pdf
 book.txt
+
+# Video generated artifacts
+video/.venv-whisper/
+video/public/audio/
+video/public/images/
+video/out/

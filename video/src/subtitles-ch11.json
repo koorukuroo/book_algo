@@ -1,0 +1,251 @@
+{
+  "fps": 30,
+  "cues": [
+    {
+      "text": "알고리즘, 인생을 계산하다.",
+      "fromFrame": 0,
+      "toFrame": 74,
+      "scene": "title"
+    },
+    {
+      "text": "챕터 11, 게임 이론.",
+      "fromFrame": 92,
+      "toFrame": 154,
+      "scene": "title"
+    },
+    {
+      "text": "합리성의 한계.",
+      "fromFrame": 170,
+      "toFrame": 213,
+      "scene": "title"
+    },
+    {
+      "text": "내가 합리적이려면 상대가 합리적이어야 하고,",
+      "fromFrame": 271,
+      "toFrame": 373,
+      "scene": "hook"
+    },
+    {
+      "text": "상대가 합리적이려면 또 내가 합리적이어야",
+      "fromFrame": 392,
+      "toFrame": 511,
+      "scene": "hook"
+    },
+    {
+      "text": "합니다.",
+      "fromFrame": 512,
+      "toFrame": 558,
+      "scene": "hook"
+    },
+    {
+      "text": "이 무한한 거울방 속에서 어떻게 결정을",
+      "fromFrame": 559,
+      "toFrame": 668,
+      "scene": "hook"
+    },
+    {
+      "text": "내려야 할까요?",
+      "fromFrame": 676,
+      "toFrame": 733,
+      "scene": "hook"
+    },
+    {
+      "text": "게임 이론은 이 질문에서 태어났습니다.",
+      "fromFrame": 733,
+      "toFrame": 836,
+      "scene": "hook"
+    },
+    {
+      "text": "1961년, 윌리엄 비크리는 천재적인",
+      "fromFrame": 876,
+      "toFrame": 985,
+      "scene": "vickrey"
+    },
+    {
+      "text": "경매 방식을 고안했습니다.",
+      "fromFrame": 990,
+      "toFrame": 1066,
+      "scene": "vickrey"
+    },
+    {
+      "text": "최고가 입찰자가 낙찰받지만, 지불은 두 번째",
+      "fromFrame": 1077,
+      "toFrame": 1186,
+      "scene": "vickrey"
+    },
+    {
+      "text": "가격으로.",
+      "fromFrame": 1190,
+      "toFrame": 1214,
+      "scene": "vickrey"
+    },
+    {
+      "text": "놀랍게도 이 작은 변화가 모든 것을",
+      "fromFrame": 1234,
+      "toFrame": 1328,
+      "scene": "vickrey"
+    },
+    {
+      "text": "바꿉니다.",
+      "fromFrame": 1335,
+      "toFrame": 1362,
+      "scene": "vickrey"
+    },
+    {
+      "text": "비크리 경매에서는 진짜 가치를 그대로 입찰하는 것이",
+      "fromFrame": 1389,
+      "toFrame": 1503,
+      "scene": "vickrey"
+    },
+    {
+      "text": "항상 최선입니다.",
+      "fromFrame": 1513,
+      "toFrame": 1562,
+      "scene": "vickrey"
+    },
+    {
+      "text": "거짓말할 이유가 사라지죠.",
+      "fromFrame": 1579,
+      "toFrame": 1630,
+      "scene": "vickrey"
+    },
+    {
+      "text": "이것이 메커니즘 디자인의 시작입니다.",
+      "fromFrame": 1655,
+      "toFrame": 1743,
+      "scene": "vickrey"
+    },
+    {
+      "text": "1950년, 22살의 존 내쉬는 균형의",
+      "fromFrame": 1807,
+      "toFrame": 1920,
+      "scene": "nash"
+    },
+    {
+      "text": "존재를 증명했습니다.",
+      "fromFrame": 1920,
+      "toFrame": 1986,
+      "scene": "nash"
+    },
+    {
+      "text": "모두가 자신의 최선만 고려하는 상태.",
+      "fromFrame": 2007,
+      "toFrame": 2109,
+      "scene": "nash"
+    },
+    {
+      "text": "그러나 내쉬 균형이 사회 최적은",
+      "fromFrame": 2110,
+      "toFrame": 2224,
+      "scene": "nash"
+    },
+    {
+      "text": "아닙니다.",
+      "fromFrame": 2224,
+      "toFrame": 2268,
+      "scene": "nash"
+    },
+    {
+      "text": "죄수의 딜레마가 그 증거.",
+      "fromFrame": 2268,
+      "toFrame": 2323,
+      "scene": "nash"
+    },
+    {
+      "text": "모두 자기에게 최선을 다하면 모두 손해를",
+      "fromFrame": 2347,
+      "toFrame": 2452,
+      "scene": "nash"
+    },
+    {
+      "text": "봅니다.",
+      "fromFrame": 2452,
+      "toFrame": 2476,
+      "scene": "nash"
+    },
+    {
+      "text": "합리성이 만드는 함정입니다.",
+      "fromFrame": 2493,
+      "toFrame": 2568,
+      "scene": "nash"
+    },
+    {
+      "text": "그래서 이 책의 저자들은 또 하나의 지혜를 권합니다.",
+      "fromFrame": 2613,
+      "toFrame": 2712,
+      "scene": "kindness"
+    },
+    {
+      "text": "계산적 친절.",
+      "fromFrame": 2730,
+      "toFrame": 2781,
+      "scene": "kindness"
+    },
+    {
+      "text": "상대가 풀어야 할 게임 자체를 가볍게 만들어 주는",
+      "fromFrame": 2801,
+      "toFrame": 2907,
+      "scene": "kindness"
+    },
+    {
+      "text": "것입니다.",
+      "fromFrame": 2909,
+      "toFrame": 2939,
+      "scene": "kindness"
+    },
+    {
+      "text": "어디 갈래라고 묻는 대신 A 또는 B를제안하기.",
+      "fromFrame": 2955,
+      "toFrame": 3079,
+      "scene": "kindness"
+    },
+    {
+      "text": "식사 메뉴를 미리 정해놓기.",
+      "fromFrame": 3106,
+      "toFrame": 3169,
+      "scene": "kindness"
+    },
+    {
+      "text": "다른 사람의 인지 부담을 줄이는 작은 결정이,",
+      "fromFrame": 3196,
+      "toFrame": 3287,
+      "scene": "kindness"
+    },
+    {
+      "text": "모두에게 더 좋은 결과를 만듭니다.",
+      "fromFrame": 3304,
+      "toFrame": 3390,
+      "scene": "kindness"
+    },
+    {
+      "text": "최선을 강요하지 마세요.",
+      "fromFrame": 3421,
+      "toFrame": 3468,
+      "scene": "outro"
+    },
+    {
+      "text": "좋은 메커니즘은 모두를 자연스럽게",
+      "fromFrame": 3493,
+      "toFrame": 3581,
+      "scene": "outro"
+    },
+    {
+      "text": "정직하게 만듭니다.",
+      "fromFrame": 3594,
+      "toFrame": 3664,
+      "scene": "outro"
+    },
+    {
+      "text": "마지막으로 결론에서, 알고리즘이 가르치는 인생의",
+      "fromFrame": 3678,
+      "toFrame": 3796,
+      "scene": "outro"
+    },
+    {
+      "text": "지혜를 정리합니다.",
+      "fromFrame": 3800,
+      "toFrame": 3840,
+      "scene": "outro"
+    }
+  ]
+}

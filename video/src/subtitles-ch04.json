@@ -1,0 +1,227 @@
+{
+  "fps": 30,
+  "cues": [
+    {
+      "text": "알고리즘, 인생을 계산하다.",
+      "fromFrame": 0,
+      "toFrame": 74,
+      "scene": "title"
+    },
+    {
+      "text": "챕터 4, 캐싱.",
+      "fromFrame": 75,
+      "toFrame": 140,
+      "scene": "title"
+    },
+    {
+      "text": "잊어버려도 괜찮아.",
+      "fromFrame": 165,
+      "toFrame": 242,
+      "scene": "title"
+    },
+    {
+      "text": "옷장에는 자주 입는 옷만 있습니다.",
+      "fromFrame": 303,
+      "toFrame": 382,
+      "scene": "hook"
+    },
+    {
+      "text": "안 입는 옷은 지하 창고로.",
+      "fromFrame": 406,
+      "toFrame": 463,
+      "scene": "hook"
+    },
+    {
+      "text": "컴퓨터 메모리도 똑같습니다.",
+      "fromFrame": 489,
+      "toFrame": 544,
+      "scene": "hook"
+    },
+    {
+      "text": "가장 빠른 메모리는 아주 작고, 큰 메모리는느립니다.",
+      "fromFrame": 564,
+      "toFrame": 696,
+      "scene": "hook"
+    },
+    {
+      "text": "무엇을 가까이 두고 무엇을 멀리 둘지가 곧",
+      "fromFrame": 725,
+      "toFrame": 827,
+      "scene": "hook"
+    },
+    {
+      "text": "캐싱의 문제입니다.",
+      "fromFrame": 841,
+      "toFrame": 892,
+      "scene": "hook"
+    },
+    {
+      "text": "1965년, 헝가리 수학자 라슬로 벨라디는",
+      "fromFrame": 940,
+      "toFrame": 1050,
+      "scene": "lru"
+    },
+    {
+      "text": "미래를 안다면 가장 늦게 쓸 항목을 버리는 것이",
+      "fromFrame": 1068,
+      "toFrame": 1182,
+      "scene": "lru"
+    },
+    {
+      "text": "최적임을 증명했습니다.",
+      "fromFrame": 1196,
+      "toFrame": 1251,
+      "scene": "lru"
+    },
+    {
+      "text": "하지만 우리는 미래를 모릅니다.",
+      "fromFrame": 1277,
+      "toFrame": 1335,
+      "scene": "lru"
+    },
+    {
+      "text": "그래서 차선책으로 사용하는 것이 LRU,",
+      "fromFrame": 1355,
+      "toFrame": 1451,
+      "scene": "lru"
+    },
+    {
+      "text": "가장 오래 안 쓴 것을 버리기.",
+      "fromFrame": 1467,
+      "toFrame": 1529,
+      "scene": "lru"
+    },
+    {
+      "text": "단순하지만 거의 모든 캐시가 이 전략을 씁니다.",
+      "fromFrame": 1555,
+      "toFrame": 1653,
+      "scene": "lru"
+    },
+    {
+      "text": "옷장이 작을수록 LRU의 가치가 빛납니다.",
+      "fromFrame": 1686,
+      "toFrame": 1798,
+      "scene": "lru"
+    },
+    {
+      "text": "기억에 대한 통찰은 더 깊어집니다.",
+      "fromFrame": 1830,
+      "toFrame": 1929,
+      "scene": "memory"
+    },
+    {
+      "text": "노화로 인한 망각은 결함이",
+      "fromFrame": 1947,
+      "toFrame": 2009,
+      "scene": "memory"
+    },
+    {
+      "text": "아닙니다.",
+      "fromFrame": 2016,
+      "toFrame": 2069,
+      "scene": "memory"
+    },
+    {
+      "text": "1960년대에 발견된 사실.",
+      "fromFrame": 2070,
+      "toFrame": 2136,
+      "scene": "memory"
+    },
+    {
+      "text": "평생 쌓아온 정보가 너무 많아 검색이 느려질 뿐,",
+      "fromFrame": 2174,
+      "toFrame": 2291,
+      "scene": "memory"
+    },
+    {
+      "text": "저장 자체는 더 잘 됩니다.",
+      "fromFrame": 2308,
+      "toFrame": 2389,
+      "scene": "memory"
+    },
+    {
+      "text": "인지심리학자 앤더슨과 슈터의 연구는 인간",
+      "fromFrame": 2412,
+      "toFrame": 2521,
+      "scene": "memory"
+    },
+    {
+      "text": "기억이 통계적 최적성을 따른다는 걸 보여줬습니다.",
+      "fromFrame": 2526,
+      "toFrame": 2645,
+      "scene": "memory"
+    },
+    {
+      "text": "망각은 청소가 아니라 통계적 추론입니다.",
+      "fromFrame": 2673,
+      "toFrame": 2787,
+      "scene": "memory"
+    },
+    {
+      "text": "책상 위 종이 더미가 무질서해 보이나요?",
+      "fromFrame": 2820,
+      "toFrame": 2898,
+      "scene": "filing"
+    },
+    {
+      "text": "사실 그것은 자연스러운 LRU 캐시입니다.",
+      "fromFrame": 2922,
+      "toFrame": 3027,
+      "scene": "filing"
+    },
+    {
+      "text": "자주 쓰는 종이가 위로 올라옵니다.",
+      "fromFrame": 3048,
+      "toFrame": 3167,
+      "scene": "filing"
+    },
+    {
+      "text": "1993년, 일본의 경제학자 노구치 유키오는",
+      "fromFrame": 3167,
+      "toFrame": 3279,
+      "scene": "filing"
+    },
+    {
+      "text": "초정리법을 제안했습니다.",
+      "fromFrame": 3293,
+      "toFrame": 3385,
+      "scene": "filing"
+    },
+    {
+      "text": "가장 최근에 본 서류를 맨 앞으로 두는 자기조직화시스템이죠.",
+      "fromFrame": 3386,
+      "toFrame": 3520,
+      "scene": "filing"
+    },
+    {
+      "text": "어수선해 보이는 책상이 사실 가장 효율적입니다.",
+      "fromFrame": 3554,
+      "toFrame": 3669,
+      "scene": "filing"
+    },
+    {
+      "text": "잊어버리는 것을 두려워하지 마세요.",
+      "fromFrame": 3721,
+      "toFrame": 3798,
+      "scene": "outro"
+    },
+    {
+      "text": "좋은 캐시는 잊는 것을 잘하는 캐시입니다.",
+      "fromFrame": 3817,
+      "toFrame": 3929,
+      "scene": "outro"
+    },
+    {
+      "text": "다음 챕터에서는 스케줄링, 시간을 다스리는",
+      "fromFrame": 3948,
+      "toFrame": 4057,
+      "scene": "outro"
+    },
+    {
+      "text": "알고리즘을 만나봅니다.",
+      "fromFrame": 4064,
+      "toFrame": 4116,
+      "scene": "outro"
+    }
+  ]
+}

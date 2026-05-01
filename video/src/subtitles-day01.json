@@ -1,0 +1,731 @@
+{
+  "fps": 30,
+  "cues": [
+    {
+      "text": "DX 컨설턴트의 시야 열기.",
+      "fromFrame": 1,
+      "toFrame": 69,
+      "scene": "title"
+    },
+    {
+      "text": "1일차, 클라우드 전문가가 되기 전에",
+      "fromFrame": 93,
+      "toFrame": 186,
+      "scene": "title"
+    },
+    {
+      "text": "먼저 갖춰야 할 진짜 무기를 만나봅니다.",
+      "fromFrame": 186,
+      "toFrame": 285,
+      "scene": "title"
+    },
+    {
+      "text": "어느 날 중견 제조기업 A사 IT",
+      "fromFrame": 332,
+      "toFrame": 415,
+      "scene": "hook_request"
+    },
+    {
+      "text": "상무님이 이렇게 말합니다.",
+      "fromFrame": 415,
+      "toFrame": 492,
+      "scene": "hook_request"
+    },
+    {
+      "text": "사장님이 디지털 전환하라고 하셨어요.",
+      "fromFrame": 511,
+      "toFrame": 592,
+      "scene": "hook_request"
+    },
+    {
+      "text": "설비 점검 시스템을 클라우드로",
+      "fromFrame": 614,
+      "toFrame": 696,
+      "scene": "hook_request"
+    },
+    {
+      "text": "옮겨주세요.",
+      "fromFrame": 696,
+      "toFrame": 734,
+      "scene": "hook_request"
+    },
+    {
+      "text": "김 컨설턴트는 의욕에 차서 2주 만에",
+      "fromFrame": 745,
+      "toFrame": 836,
+      "scene": "hook_request"
+    },
+    {
+      "text": "마이그레이션을 완료했습니다.",
+      "fromFrame": 836,
+      "toFrame": 920,
+      "scene": "hook_request"
+    },
+    {
+      "text": "그런데 결과는 참담했습니다.",
+      "fromFrame": 961,
+      "toFrame": 1044,
+      "scene": "hook_disaster"
+    },
+    {
+      "text": "현장 작업자는 기존 IE 전용 화면",
+      "fromFrame": 1057,
+      "toFrame": 1164,
+      "scene": "hook_disaster"
+    },
+    {
+      "text": "그대로라 태블릿을 못 썼고, 공장장은",
+      "fromFrame": 1164,
+      "toFrame": 1287,
+      "scene": "hook_disaster"
+    },
+    {
+      "text": "실시간 알림이 없다고 답답해했죠.",
+      "fromFrame": 1287,
+      "toFrame": 1403,
+      "scene": "hook_disaster"
+    },
+    {
+      "text": "첫 달 비용은 두 배가 됐고, 보안팀은",
+      "fromFrame": 1406,
+      "toFrame": 1508,
+      "scene": "hook_disaster"
+    },
+    {
+      "text": "설비 데이터 노출로 감사 이슈를",
+      "fromFrame": 1508,
+      "toFrame": 1597,
+      "scene": "hook_disaster"
+    },
+    {
+      "text": "제기했습니다.",
+      "fromFrame": 1597,
+      "toFrame": 1645,
+      "scene": "hook_disaster"
+    },
+    {
+      "text": "무엇이 잘못된 걸까요?",
+      "fromFrame": 1645,
+      "toFrame": 1696,
+      "scene": "hook_disaster"
+    },
+    {
+      "text": "이건 작은 회사 이야기만이 아닙니다.",
+      "fromFrame": 1741,
+      "toFrame": 1852,
+      "scene": "ge_case"
+    },
+    {
+      "text": "2015년 GE는 산업 IoT 플랫폼",
+      "fromFrame": 1853,
+      "toFrame": 1945,
+      "scene": "ge_case"
+    },
+    {
+      "text": "Predix에 70억 달러를 쏟아부으며",
+      "fromFrame": 1945,
+      "toFrame": 2049,
+      "scene": "ge_case"
+    },
+    {
+      "text": "2020년까지 150억 달러 매출을",
+      "fromFrame": 2049,
+      "toFrame": 2142,
+      "scene": "ge_case"
+    },
+    {
+      "text": "예측했죠.",
+      "fromFrame": 2142,
+      "toFrame": 2171,
+      "scene": "ge_case"
+    },
+    {
+      "text": "결과는 12억 달러.",
+      "fromFrame": 2192,
+      "toFrame": 2248,
+      "scene": "ge_case"
+    },
+    {
+      "text": "목표의 단 8퍼센트였습니다.",
+      "fromFrame": 2267,
+      "toFrame": 2333,
+      "scene": "ge_case"
+    },
+    {
+      "text": "GE는 결국 세 회사로 해체됐습니다.",
+      "fromFrame": 2356,
+      "toFrame": 2445,
+      "scene": "ge_case"
+    },
+    {
+      "text": "아인슈타인은 이렇게 말했습니다.",
+      "fromFrame": 2491,
+      "toFrame": 2566,
+      "scene": "einstein"
+    },
+    {
+      "text": "지구를 구할 1시간이 주어진다면,",
+      "fromFrame": 2592,
+      "toFrame": 2690,
+      "scene": "einstein"
+    },
+    {
+      "text": "55분은 문제를 정의하는 데 쓰고,",
+      "fromFrame": 2690,
+      "toFrame": 2789,
+      "scene": "einstein"
+    },
+    {
+      "text": "5분만 답을 찾는 데 쓰겠다.",
+      "fromFrame": 2789,
+      "toFrame": 2867,
+      "scene": "einstein"
+    },
+    {
+      "text": "진짜 위험한 건 잘못된 답이 아니라,",
+      "fromFrame": 2900,
+      "toFrame": 2990,
+      "scene": "einstein"
+    },
+    {
+      "text": "잘못된 질문입니다.",
+      "fromFrame": 2990,
+      "toFrame": 3044,
+      "scene": "einstein"
+    },
+    {
+      "text": "고객의 말은 사실 솔루션의 형태입니다.",
+      "fromFrame": 3091,
+      "toFrame": 3178,
+      "scene": "real_problem"
+    },
+    {
+      "text": "서버가 느려요라는 말 뒤에는 DB 쿼리",
+      "fromFrame": 3203,
+      "toFrame": 3299,
+      "scene": "real_problem"
+    },
+    {
+      "text": "병목이 숨어 있고, 앱을 새로",
+      "fromFrame": 3299,
+      "toFrame": 3371,
+      "scene": "real_problem"
+    },
+    {
+      "text": "만들어주세요 뒤에는 모바일 미지원이라는",
+      "fromFrame": 3371,
+      "toFrame": 3480,
+      "scene": "real_problem"
+    },
+    {
+      "text": "진짜 문제가 있죠.",
+      "fromFrame": 3480,
+      "toFrame": 3528,
+      "scene": "real_problem"
+    },
+    {
+      "text": "컨설턴트의 첫 번째 질문은 항상",
+      "fromFrame": 3562,
+      "toFrame": 3629,
+      "scene": "real_problem"
+    },
+    {
+      "text": "똑같습니다.",
+      "fromFrame": 3629,
+      "toFrame": 3660,
+      "scene": "real_problem"
+    },
+    {
+      "text": "왜요?",
+      "fromFrame": 3684,
+      "toFrame": 3702,
+      "scene": "real_problem"
+    },
+    {
+      "text": "그래서 컨설턴트의 도구는 의사의 문진표를",
+      "fromFrame": 3750,
+      "toFrame": 3877,
+      "scene": "doctor"
+    },
+    {
+      "text": "닮았습니다.",
+      "fromFrame": 3877,
+      "toFrame": 3919,
+      "scene": "doctor"
+    },
+    {
+      "text": "환자가 배가 아파요라고 했다고 바로 약을",
+      "fromFrame": 3933,
+      "toFrame": 4031,
+      "scene": "doctor"
+    },
+    {
+      "text": "주는 의사는 없죠.",
+      "fromFrame": 4031,
+      "toFrame": 4077,
+      "scene": "doctor"
+    },
+    {
+      "text": "언제부터, 어디가, 어떻게 아픈지",
+      "fromFrame": 4111,
+      "toFrame": 4229,
+      "scene": "doctor"
+    },
+    {
+      "text": "묻습니다.",
+      "fromFrame": 4229,
+      "toFrame": 4269,
+      "scene": "doctor"
+    },
+    {
+      "text": "컨설턴트도 똑같이 5W1H, 즉 무엇,",
+      "fromFrame": 4271,
+      "toFrame": 4434,
+      "scene": "doctor"
+    },
+    {
+      "text": "누가, 언제, 어디서, 왜, 어떻게로",
+      "fromFrame": 4434,
+      "toFrame": 4587,
+      "scene": "doctor"
+    },
+    {
+      "text": "문제를 진단합니다.",
+      "fromFrame": 4587,
+      "toFrame": 4673,
+      "scene": "doctor"
+    },
+    {
+      "text": "그리고 답은 반드시 숫자로 받아야",
+      "fromFrame": 4712,
+      "toFrame": 4802,
+      "scene": "quantify"
+    },
+    {
+      "text": "합니다.",
+      "fromFrame": 4802,
+      "toFrame": 4827,
+      "scene": "quantify"
+    },
+    {
+      "text": "느려요 대신 평균 응답 시간 8초,",
+      "fromFrame": 4848,
+      "toFrame": 4982,
+      "scene": "quantify"
+    },
+    {
+      "text": "많아요 대신 일 평균 350건, 자주",
+      "fromFrame": 4982,
+      "toFrame": 5125,
+      "scene": "quantify"
+    },
+    {
+      "text": "장애가 나요 대신 월 4회, 건당 2시간",
+      "fromFrame": 5125,
+      "toFrame": 5277,
+      "scene": "quantify"
+    },
+    {
+      "text": "다운타임.",
+      "fromFrame": 5277,
+      "toFrame": 5325,
+      "scene": "quantify"
+    },
+    {
+      "text": "정량화된 문제만이 KPI가 되고,",
+      "fromFrame": 5326,
+      "toFrame": 5419,
+      "scene": "quantify"
+    },
+    {
+      "text": "KPI가 있어야 성공 여부를 객관적으로",
+      "fromFrame": 5419,
+      "toFrame": 5525,
+      "scene": "quantify"
+    },
+    {
+      "text": "판단할 수 있습니다.",
+      "fromFrame": 5525,
+      "toFrame": 5581,
+      "scene": "quantify"
+    },
+    {
+      "text": "그 다음은 누가 이 시스템을 쓰는지",
+      "fromFrame": 5642,
+      "toFrame": 5724,
+      "scene": "stakeholder"
+    },
+    {
+      "text": "파악하는 이해관계자 분석입니다.",
+      "fromFrame": 5724,
+      "toFrame": 5812,
+      "scene": "stakeholder"
+    },
+    {
+      "text": "영향력과 관심도로 4개 그룹을 나누는데,",
+      "fromFrame": 5838,
+      "toFrame": 5943,
+      "scene": "stakeholder"
+    },
+    {
+      "text": "가장 위험한 건 영향력은 높지만 관심이",
+      "fromFrame": 5943,
+      "toFrame": 6037,
+      "scene": "stakeholder"
+    },
+    {
+      "text": "낮은 그룹이에요.",
+      "fromFrame": 6037,
+      "toFrame": 6084,
+      "scene": "stakeholder"
+    },
+    {
+      "text": "평소엔 말이 없던 보안팀이나 IT팀이",
+      "fromFrame": 6119,
+      "toFrame": 6215,
+      "scene": "stakeholder"
+    },
+    {
+      "text": "막판에 안 된다고 한마디 하면, 프로젝트",
+      "fromFrame": 6215,
+      "toFrame": 6317,
+      "scene": "stakeholder"
+    },
+    {
+      "text": "전체가 멈출 수 있습니다.",
+      "fromFrame": 6317,
+      "toFrame": 6384,
+      "scene": "stakeholder"
+    },
+    {
+      "text": "문제를 정의했다면 이제 As-Is와",
+      "fromFrame": 6422,
+      "toFrame": 6501,
+      "scene": "asis_tobe"
+    },
+    {
+      "text": "To-Be입니다.",
+      "fromFrame": 6501,
+      "toFrame": 6546,
+      "scene": "asis_tobe"
+    },
+    {
+      "text": "현재 상태를 객관적인 데이터로 기록하고,",
+      "fromFrame": 6563,
+      "toFrame": 6653,
+      "scene": "asis_tobe"
+    },
+    {
+      "text": "목표 상태를 SMART 원칙에 맞게",
+      "fromFrame": 6653,
+      "toFrame": 6728,
+      "scene": "asis_tobe"
+    },
+    {
+      "text": "설계하죠.",
+      "fromFrame": 6728,
+      "toFrame": 6753,
+      "scene": "asis_tobe"
+    },
+    {
+      "text": "Specific 구체적이고,",
+      "fromFrame": 6780,
+      "toFrame": 6839,
+      "scene": "asis_tobe"
+    },
+    {
+      "text": "Measurable 측정 가능하며,",
+      "fromFrame": 6839,
+      "toFrame": 6911,
+      "scene": "asis_tobe"
+    },
+    {
+      "text": "Achievable 달성 가능하고,",
+      "fromFrame": 6911,
+      "toFrame": 6983,
+      "scene": "asis_tobe"
+    },
+    {
+      "text": "Relevant 비즈니스에 연결되고,",
+      "fromFrame": 6983,
+      "toFrame": 7060,
+      "scene": "asis_tobe"
+    },
+    {
+      "text": "Time-bound 기한이 있어야",
+      "fromFrame": 7060,
+      "toFrame": 7127,
+      "scene": "asis_tobe"
+    },
+    {
+      "text": "합니다.",
+      "fromFrame": 7127,
+      "toFrame": 7144,
+      "scene": "asis_tobe"
+    },
+    {
+      "text": "이렇게 만든 KPI는 ROI라는 무기로",
+      "fromFrame": 7201,
+      "toFrame": 7287,
+      "scene": "kpi_roi"
+    },
+    {
+      "text": "변합니다.",
+      "fromFrame": 7287,
+      "toFrame": 7312,
+      "scene": "kpi_roi"
+    },
+    {
+      "text": "설비 점검 포털 사례에서 라인 정지 손실",
+      "fromFrame": 7356,
+      "toFrame": 7454,
+      "scene": "kpi_roi"
+    },
+    {
+      "text": "9.6억, 인건비 1.7억으로 연",
+      "fromFrame": 7454,
+      "toFrame": 7546,
+      "scene": "kpi_roi"
+    },
+    {
+      "text": "11.9억이 들던 것을, 클라우드 전환",
+      "fromFrame": 7546,
+      "toFrame": 7650,
+      "scene": "kpi_roi"
+    },
+    {
+      "text": "후 연 3.1억으로 줄였죠.",
+      "fromFrame": 7650,
+      "toFrame": 7724,
+      "scene": "kpi_roi"
+    },
+    {
+      "text": "연간 8.8억 절감, ROI",
+      "fromFrame": 7750,
+      "toFrame": 7831,
+      "scene": "kpi_roi"
+    },
+    {
+      "text": "151퍼센트, 회수 기간 4.8개월.",
+      "fromFrame": 7831,
+      "toFrame": 7946,
+      "scene": "kpi_roi"
+    },
+    {
+      "text": "이 숫자가 경영진을 움직입니다.",
+      "fromFrame": 7977,
+      "toFrame": 8064,
+      "scene": "kpi_roi"
+    },
+    {
+      "text": "마지막으로 AWS",
+      "fromFrame": 8101,
+      "toFrame": 8126,
+      "scene": "well_architected"
+    },
+    {
+      "text": "Well-Architected",
+      "fromFrame": 8126,
+      "toFrame": 8177,
+      "scene": "well_architected"
+    },
+    {
+      "text": "Framework.",
+      "fromFrame": 8177,
+      "toFrame": 8209,
+      "scene": "well_architected"
+    },
+    {
+      "text": "잘 설계된 클라우드를 6개 기둥으로",
+      "fromFrame": 8233,
+      "toFrame": 8309,
+      "scene": "well_architected"
+    },
+    {
+      "text": "평가합니다.",
+      "fromFrame": 8309,
+      "toFrame": 8339,
+      "scene": "well_architected"
+    },
+    {
+      "text": "운영 우수성, 보안, 안정성, 성능",
+      "fromFrame": 8366,
+      "toFrame": 8468,
+      "scene": "well_architected"
+    },
+    {
+      "text": "효율성, 비용 최적화, 그리고",
+      "fromFrame": 8468,
+      "toFrame": 8556,
+      "scene": "well_architected"
+    },
+    {
+      "text": "지속가능성.",
+      "fromFrame": 8556,
+      "toFrame": 8597,
+      "scene": "well_architected"
+    },
+    {
+      "text": "핵심은 모든 기둥에서 100점이 아니라,",
+      "fromFrame": 8636,
+      "toFrame": 8730,
+      "scene": "well_architected"
+    },
+    {
+      "text": "비즈니스 우선순위에 맞는 적정 균형을",
+      "fromFrame": 8730,
+      "toFrame": 8814,
+      "scene": "well_architected"
+    },
+    {
+      "text": "찾는 것입니다.",
+      "fromFrame": 8814,
+      "toFrame": 8851,
+      "scene": "well_architected"
+    },
+    {
+      "text": "결국 DX 컨설턴트는 5가지 역량을 갖춘",
+      "fromFrame": 8912,
+      "toFrame": 9030,
+      "scene": "competencies"
+    },
+    {
+      "text": "사람입니다.",
+      "fromFrame": 9030,
+      "toFrame": 9072,
+      "scene": "competencies"
+    },
+    {
+      "text": "막연한 요구를 구조화하는 문제 정의",
+      "fromFrame": 9106,
+      "toFrame": 9214,
+      "scene": "competencies"
+    },
+    {
+      "text": "능력, 최적의 아키텍처 설계, 기술을",
+      "fromFrame": 9214,
+      "toFrame": 9330,
+      "scene": "competencies"
+    },
+    {
+      "text": "KPI와 ROI로 번역하는 비즈니스",
+      "fromFrame": 9330,
+      "toFrame": 9446,
+      "scene": "competencies"
+    },
+    {
+      "text": "소통, AWS 클라우드 역량, 그리고",
+      "fromFrame": 9446,
+      "toFrame": 9561,
+      "scene": "competencies"
+    },
+    {
+      "text": "이해관계자를 이끄는 프로젝트 관리.",
+      "fromFrame": 9561,
+      "toFrame": 9677,
+      "scene": "competencies"
+    },
+    {
+      "text": "1일차에서 꼭 기억할 다섯 문장으로",
+      "fromFrame": 9722,
+      "toFrame": 9809,
+      "scene": "five_lessons"
+    },
+    {
+      "text": "정리합니다.",
+      "fromFrame": 9809,
+      "toFrame": 9843,
+      "scene": "five_lessons"
+    },
+    {
+      "text": "첫째, 솔루션보다 문제 정의가 먼저다.",
+      "fromFrame": 9844,
+      "toFrame": 9948,
+      "scene": "five_lessons"
+    },
+    {
+      "text": "둘째, 고객의 말을 그대로 받지 말고",
+      "fromFrame": 9976,
+      "toFrame": 10068,
+      "scene": "five_lessons"
+    },
+    {
+      "text": "왜를 물어라.",
+      "fromFrame": 10068,
+      "toFrame": 10104,
+      "scene": "five_lessons"
+    },
+    {
+      "text": "셋째, 숫자 없는 문제 정의는 의미가",
+      "fromFrame": 10128,
+      "toFrame": 10221,
+      "scene": "five_lessons"
+    },
+    {
+      "text": "없다.",
+      "fromFrame": 10221,
+      "toFrame": 10240,
+      "scene": "five_lessons"
+    },
+    {
+      "text": "넷째, 모든 기둥 100점이 아닌 적정",
+      "fromFrame": 10256,
+      "toFrame": 10352,
+      "scene": "five_lessons"
+    },
+    {
+      "text": "수준을 찾아라.",
+      "fromFrame": 10352,
+      "toFrame": 10394,
+      "scene": "five_lessons"
+    },
+    {
+      "text": "다섯째, 기술은 도구일 뿐 핵심은",
+      "fromFrame": 10414,
+      "toFrame": 10506,
+      "scene": "five_lessons"
+    },
+    {
+      "text": "비즈니스 문제 해결이다.",
+      "fromFrame": 10506,
+      "toFrame": 10579,
+      "scene": "five_lessons"
+    },
+    {
+      "text": "내일은 IT 인프라 기본 개념, 서버와",
+      "fromFrame": 10621,
+      "toFrame": 10716,
+      "scene": "outro"
+    },
+    {
+      "text": "네트워크와 스토리지로 들어갑니다.",
+      "fromFrame": 10716,
+      "toFrame": 10811,
+      "scene": "outro"
+    },
+    {
+      "text": "오늘 배운 컨설턴트의 시각으로 내일의",
+      "fromFrame": 10827,
+      "toFrame": 10902,
+      "scene": "outro"
+    },
+    {
+      "text": "기술을 바라보세요.",
+      "fromFrame": 10902,
+      "toFrame": 10944,
+      "scene": "outro"
+    },
+    {
+      "text": "그러면 같은 기술도 10배 빠르게,",
+      "fromFrame": 10968,
+      "toFrame": 11055,
+      "scene": "outro"
+    },
+    {
+      "text": "10배 깊게 이해됩니다.",
+      "fromFrame": 11055,
+      "toFrame": 11119,
+      "scene": "outro"
+    }
+  ]
+}

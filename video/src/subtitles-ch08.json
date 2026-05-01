@@ -1,0 +1,251 @@
+{
+  "fps": 30,
+  "cues": [
+    {
+      "text": "알고리즘, 인생을 계산하다.",
+      "fromFrame": 1,
+      "toFrame": 76,
+      "scene": "title"
+    },
+    {
+      "text": "챕터 8, 완화.",
+      "fromFrame": 93,
+      "toFrame": 145,
+      "scene": "title"
+    },
+    {
+      "text": "풀 수 없는 문제를 푸는 법.",
+      "fromFrame": 169,
+      "toFrame": 230,
+      "scene": "title"
+    },
+    {
+      "text": "10명의 친구를 세 도시에 나눠 배정해야",
+      "fromFrame": 270,
+      "toFrame": 363,
+      "scene": "hook"
+    },
+    {
+      "text": "합니다.",
+      "fromFrame": 363,
+      "toFrame": 385,
+      "scene": "hook"
+    },
+    {
+      "text": "가능한 모든 조합을 따져보면 5만 9천",
+      "fromFrame": 402,
+      "toFrame": 487,
+      "scene": "hook"
+    },
+    {
+      "text": "가지.",
+      "fromFrame": 487,
+      "toFrame": 503,
+      "scene": "hook"
+    },
+    {
+      "text": "도시가 늘어나면 폭발합니다.",
+      "fromFrame": 524,
+      "toFrame": 593,
+      "scene": "hook"
+    },
+    {
+      "text": "이런 NP-hard 문제 앞에서, 컴퓨터",
+      "fromFrame": 616,
+      "toFrame": 701,
+      "scene": "hook"
+    },
+    {
+      "text": "과학자들은 천재적인 지름길을 찾았습니다.",
+      "fromFrame": 701,
+      "toFrame": 790,
+      "scene": "hook"
+    },
+    {
+      "text": "완벽함을 포기하는 것.",
+      "fromFrame": 818,
+      "toFrame": 874,
+      "scene": "hook"
+    },
+    {
+      "text": "첫 번째 도구, 연속 완화.",
+      "fromFrame": 931,
+      "toFrame": 1002,
+      "scene": "continuous"
+    },
+    {
+      "text": "가야 한다, 가지 않는다처럼 둘 중 하나로 선택해야 할",
+      "fromFrame": 1032,
+      "toFrame": 1144,
+      "scene": "continuous"
+    },
+    {
+      "text": "문제를, 0과 1 사이의 연속값으로풀어냅니다.",
+      "fromFrame": 1147,
+      "toFrame": 1287,
+      "scene": "continuous"
+    },
+    {
+      "text": "그리고 다시 정수로 반올림.",
+      "fromFrame": 1308,
+      "toFrame": 1393,
+      "scene": "continuous"
+    },
+    {
+      "text": "배낭 문제, 외판원 문제 모두 이 방식으로 풀이가",
+      "fromFrame": 1408,
+      "toFrame": 1521,
+      "scene": "continuous"
+    },
+    {
+      "text": "단순해집니다.",
+      "fromFrame": 1526,
+      "toFrame": 1553,
+      "scene": "continuous"
+    },
+    {
+      "text": "완벽한 답은 아니지만, 충분히 좋은 답을",
+      "fromFrame": 1576,
+      "toFrame": 1679,
+      "scene": "continuous"
+    },
+    {
+      "text": "빠르게 얻습니다.",
+      "fromFrame": 1689,
+      "toFrame": 1729,
+      "scene": "continuous"
+    },
+    {
+      "text": "두 번째 도구, 라그랑주 완화.",
+      "fromFrame": 1771,
+      "toFrame": 1840,
+      "scene": "lagrange"
+    },
+    {
+      "text": "절대 어겨선 안 되는 제약을 없애고 대신 가격으로바꿉니다.",
+      "fromFrame": 1867,
+      "toFrame": 2003,
+      "scene": "lagrange"
+    },
+    {
+      "text": "무거우면 비싸진다, 늦으면 벌금이다.",
+      "fromFrame": 2026,
+      "toFrame": 2111,
+      "scene": "lagrange"
+    },
+    {
+      "text": "이렇게 하면 문제가 갑자기 풀리기 시작합니다.",
+      "fromFrame": 2126,
+      "toFrame": 2222,
+      "scene": "lagrange"
+    },
+    {
+      "text": "일상에도 적용됩니다.",
+      "fromFrame": 2247,
+      "toFrame": 2292,
+      "scene": "lagrange"
+    },
+    {
+      "text": "절대 안 된다는 말 대신 그러면 비용이 더",
+      "fromFrame": 2310,
+      "toFrame": 2414,
+      "scene": "lagrange"
+    },
+    {
+      "text": "들어요라고 말하면, 룰이 가격이 되어",
+      "fromFrame": 2416,
+      "toFrame": 2517,
+      "scene": "lagrange"
+    },
+    {
+      "text": "협상이 가능해집니다.",
+      "fromFrame": 2524,
+      "toFrame": 2574,
+      "scene": "lagrange"
+    },
+    {
+      "text": "외판원이 33개 도시를 모두 방문하는",
+      "fromFrame": 2611,
+      "toFrame": 2721,
+      "scene": "tsp"
+    },
+    {
+      "text": "최단 경로 문제.",
+      "fromFrame": 2730,
+      "toFrame": 2810,
+      "scene": "tsp"
+    },
+    {
+      "text": "1954년 RAND 연구소의 단치그,",
+      "fromFrame": 2811,
+      "toFrame": 2916,
+      "scene": "tsp"
+    },
+    {
+      "text": "풀커슨, 존슨은 49개 도시 문제를",
+      "fromFrame": 2927,
+      "toFrame": 3039,
+      "scene": "tsp"
+    },
+    {
+      "text": "손으로 풀었습니다.",
+      "fromFrame": 3050,
+      "toFrame": 3101,
+      "scene": "tsp"
+    },
+    {
+      "text": "비결은 라그랑주 완화로 하한선을 만들고,",
+      "fromFrame": 3116,
+      "toFrame": 3222,
+      "scene": "tsp"
+    },
+    {
+      "text": "정수해를 그 위로 짜내는 것.",
+      "fromFrame": 3237,
+      "toFrame": 3311,
+      "scene": "tsp"
+    },
+    {
+      "text": "오늘날 85,900개 도시까지 풀렸습니다.",
+      "fromFrame": 3338,
+      "toFrame": 3455,
+      "scene": "tsp"
+    },
+    {
+      "text": "천재적인 지름길은 점점 더 멀리 갑니다.",
+      "fromFrame": 3495,
+      "toFrame": 3610,
+      "scene": "tsp"
+    },
+    {
+      "text": "완벽한 답을 찾을 수 없을 때,",
+      "fromFrame": 3663,
+      "toFrame": 3741,
+      "scene": "outro"
+    },
+    {
+      "text": "충분히 좋은 답을 빠르게 찾는 것이",
+      "fromFrame": 3766,
+      "toFrame": 3860,
+      "scene": "outro"
+    },
+    {
+      "text": "지혜입니다.",
+      "fromFrame": 3872,
+      "toFrame": 3902,
+      "scene": "outro"
+    },
+    {
+      "text": "다음 챕터에서는 무작위, 우연이 만드는",
+      "fromFrame": 3921,
+      "toFrame": 4033,
+      "scene": "outro"
+    },
+    {
+      "text": "답을 살펴봅니다.",
+      "fromFrame": 4042,
+      "toFrame": 4089,
+      "scene": "outro"
+    }
+  ]
+}

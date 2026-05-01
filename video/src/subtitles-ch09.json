@@ -1,0 +1,245 @@
+{
+  "fps": 30,
+  "cues": [
+    {
+      "text": "알고리즘, 인생을 계산하다.",
+      "fromFrame": 0,
+      "toFrame": 71,
+      "scene": "title"
+    },
+    {
+      "text": "챕터 9, 무작위.",
+      "fromFrame": 86,
+      "toFrame": 135,
+      "scene": "title"
+    },
+    {
+      "text": "우연이 만드는 답.",
+      "fromFrame": 156,
+      "toFrame": 194,
+      "scene": "title"
+    },
+    {
+      "text": "1946년, 수학자 스타니스와프 울람은",
+      "fromFrame": 246,
+      "toFrame": 359,
+      "scene": "hook"
+    },
+    {
+      "text": "솔리테어 게임을 두며 한 가지 의문을",
+      "fromFrame": 375,
+      "toFrame": 461,
+      "scene": "hook"
+    },
+    {
+      "text": "떠올렸습니다.",
+      "fromFrame": 470,
+      "toFrame": 501,
+      "scene": "hook"
+    },
+    {
+      "text": "이 게임이 풀릴 확률은 얼마일까.",
+      "fromFrame": 524,
+      "toFrame": 615,
+      "scene": "hook"
+    },
+    {
+      "text": "모든 경우를 분석하기엔 너무 많았죠.",
+      "fromFrame": 635,
+      "toFrame": 717,
+      "scene": "hook"
+    },
+    {
+      "text": "그래서 그가 떠올린 답은, 그냥 무작위로 천",
+      "fromFrame": 740,
+      "toFrame": 853,
+      "scene": "hook"
+    },
+    {
+      "text": "번 해보고 그 비율로 추정하면",
+      "fromFrame": 857,
+      "toFrame": 947,
+      "scene": "hook"
+    },
+    {
+      "text": "어떨까였습니다.",
+      "fromFrame": 955,
+      "toFrame": 996,
+      "scene": "hook"
+    },
+    {
+      "text": "이것이 몬테카를로 방법의 탄생.",
+      "fromFrame": 1051,
+      "toFrame": 1140,
+      "scene": "montecarlo"
+    },
+    {
+      "text": "분석하지 말고 표본을 추출하라.",
+      "fromFrame": 1164,
+      "toFrame": 1242,
+      "scene": "montecarlo"
+    },
+    {
+      "text": "무작위 점을 정사각형에 뿌려 원에 들어간 비율로",
+      "fromFrame": 1270,
+      "toFrame": 1389,
+      "scene": "montecarlo"
+    },
+    {
+      "text": "파이를 추정할 수 있습니다.",
+      "fromFrame": 1396,
+      "toFrame": 1451,
+      "scene": "montecarlo"
+    },
+    {
+      "text": "더 많이 뿌릴수록 더 정확해집니다.",
+      "fromFrame": 1478,
+      "toFrame": 1566,
+      "scene": "montecarlo"
+    },
+    {
+      "text": "핵분열 시뮬레이션부터 영화 그래픽, 금융",
+      "fromFrame": 1590,
+      "toFrame": 1691,
+      "scene": "montecarlo"
+    },
+    {
+      "text": "예측까지 무작위가 가장 강력한도구입니다.",
+      "fromFrame": 1695,
+      "toFrame": 1827,
+      "scene": "montecarlo"
+    },
+    {
+      "text": "1976년, 게리 밀러와 마이클 라빈은",
+      "fromFrame": 1862,
+      "toFrame": 1953,
+      "scene": "primality"
+    },
+    {
+      "text": "무작위로 소수를 판별하는 방법을",
+      "fromFrame": 1968,
+      "toFrame": 2040,
+      "scene": "primality"
+    },
+    {
+      "text": "발표했습니다.",
+      "fromFrame": 2049,
+      "toFrame": 2104,
+      "scene": "primality"
+    },
+    {
+      "text": "한 번의 테스트로 합성수를 4분의 3 확률로",
+      "fromFrame": 2105,
+      "toFrame": 2205,
+      "scene": "primality"
+    },
+    {
+      "text": "걸러냅니다.",
+      "fromFrame": 2214,
+      "toFrame": 2264,
+      "scene": "primality"
+    },
+    {
+      "text": "스무 번이면 1조분의 1, 마흔 번이면 사실상",
+      "fromFrame": 2265,
+      "toFrame": 2382,
+      "scene": "primality"
+    },
+    {
+      "text": "0에 가까운 오류로 떨어지죠.",
+      "fromFrame": 2382,
+      "toFrame": 2494,
+      "scene": "primality"
+    },
+    {
+      "text": "RSA 암호의 기반이 된 이 알고리즘은, 정확성보다",
+      "fromFrame": 2494,
+      "toFrame": 2613,
+      "scene": "primality"
+    },
+    {
+      "text": "빠른 추정이 더 가치 있을 때가 있음을 증명했습니다.",
+      "fromFrame": 2626,
+      "toFrame": 2743,
+      "scene": "primality"
+    },
+    {
+      "text": "1983년, 키르크파트릭은 금속의",
+      "fromFrame": 2796,
+      "toFrame": 2910,
+      "scene": "annealing"
+    },
+    {
+      "text": "풀림 공정에서 영감을 얻었습니다.",
+      "fromFrame": 2917,
+      "toFrame": 3010,
+      "scene": "annealing"
+    },
+    {
+      "text": "시뮬레이티드 어닐링.",
+      "fromFrame": 3040,
+      "toFrame": 3094,
+      "scene": "annealing"
+    },
+    {
+      "text": "처음에는 뜨겁게 시작해 무작위로 크게 흔들리고,",
+      "fromFrame": 3138,
+      "toFrame": 3250,
+      "scene": "annealing"
+    },
+    {
+      "text": "점점 식히며 좋은 답에 머무르게",
+      "fromFrame": 3270,
+      "toFrame": 3370,
+      "scene": "annealing"
+    },
+    {
+      "text": "합니다.",
+      "fromFrame": 3379,
+      "toFrame": 3426,
+      "scene": "annealing"
+    },
+    {
+      "text": "가끔은 더 나쁜 답을 받아들여야 더 좋은",
+      "fromFrame": 3426,
+      "toFrame": 3545,
+      "scene": "annealing"
+    },
+    {
+      "text": "답에 도달합니다.",
+      "fromFrame": 3548,
+      "toFrame": 3601,
+      "scene": "annealing"
+    },
+    {
+      "text": "인생에서도 가끔은 멀리 돌아가는 것이답입니다.",
+      "fromFrame": 3622,
+      "toFrame": 3766,
+      "scene": "annealing"
+    },
+    {
+      "text": "정확함을 포기하면 빠름을 얻고, 빠름을 포기하면",
+      "fromFrame": 3811,
+      "toFrame": 3922,
+      "scene": "outro"
+    },
+    {
+      "text": "무작위를 얻습니다.",
+      "fromFrame": 3936,
+      "toFrame": 4005,
+      "scene": "outro"
+    },
+    {
+      "text": "다음 챕터에서는 네트워킹, 우리가 어떻게",
+      "fromFrame": 4005,
+      "toFrame": 4100,
+      "scene": "outro"
+    },
+    {
+      "text": "연결되는지 살펴봅니다.",
+      "fromFrame": 4102,
+      "toFrame": 4155,
+      "scene": "outro"
+    }
+  ]
+}
