@@ -221,14 +221,14 @@ ASSETS = [
         "id": "trouble",
         "ratio": "16:9",
         "prompt": (
-            f"{STYLE}"
-            "An infographic on cream background. Top center bold Korean title '흔한 5가지 실수' in coral red. "
-            "Three numbered cards in vertical stack, each with a warning icon and Korean text: "
-            "Card 1 (red border): '① Public EC2 인터넷 안됨 → 라우팅 테이블 0.0.0.0/0 → IGW 빠짐'; "
-            "Card 2 (orange border): '② NAT를 Private 서브넷에 생성 → Public 서브넷에 만들어야 함'; "
-            "Card 3 (yellow border): '③ NACL 임시포트 누락 → 응답 트래픽 차단 (Stateless 함정)'. "
-            "On the right a small cartoon Korean male consultant scratching his head with a question mark. "
-            "Bottom: '이 셋만 피해도 절반은 안전 ✓'."
+            "Korean educational infographic, cream paper background. "
+            "Top center bold red title '흔한 3가지 실수'. "
+            "Three numbered cards stacked vertically, each with a warning icon and Korean text: "
+            "Card 1 (red border): '① Public EC2 인터넷 안됨 — 라우팅 테이블 누락'; "
+            "Card 2 (orange border): '② NAT를 Private 서브넷에 생성 — 위치 오류'; "
+            "Card 3 (yellow border): '③ NACL 임시포트 누락 — 응답 차단'. "
+            "Cartoon worried Korean male consultant on right with a question mark. "
+            "Bottom: '이 셋만 피해도 절반 안전 ✓'."
         ),
     },
     {

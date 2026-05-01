@@ -14,6 +14,8 @@ import { Conclusion } from "./chapters/Conclusion";
 import { Solo7 } from "./chapters/Solo7";
 import { Day01 } from "./chapters/Day01";
 import { Day02 } from "./chapters/Day02";
+import { Day03 } from "./chapters/Day03";
+import { Day04 } from "./chapters/Day04";
 import { computeTotalFrames, type Narration } from "./narration";
 import ch01 from "../scripts/narrations/ch01.json";
 import ch02 from "../scripts/narrations/ch02.json";
@@ -30,6 +32,8 @@ import conclusion from "../scripts/narrations/conclusion.json";
 import solo7Narration from "../scripts/narrations/solo7.json";
 import day01Narration from "../scripts/narrations/day01.json";
 import day02Narration from "../scripts/narrations/day02.json";
+import day03Narration from "../scripts/narrations/day03.json";
+import day04Narration from "../scripts/narrations/day04.json";
 import "./load-fonts";
 
 const compositions = [
@@ -48,6 +52,8 @@ const compositions = [
   { id: "Solo7", component: Solo7, narration: solo7Narration },
   { id: "Day01", component: Day01, narration: day01Narration },
   { id: "Day02", component: Day02, narration: day02Narration },
+  { id: "Day03", component: Day03, narration: day03Narration },
+  { id: "Day04", component: Day04, narration: day04Narration },
 ];
 
 export const Root = () => {

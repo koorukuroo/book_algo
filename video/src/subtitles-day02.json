@@ -620,7 +620,7 @@
       "scene": "sg_chain"
     },
     {
-      "text": "현장에서 가장 흔한 다섯 가지 실수도",
+      "text": "현장에서 가장 흔한 3가지 실수도",
       "fromFrame": 9241,
       "toFrame": 9313,
       "scene": "trouble"
@@ -628,145 +628,145 @@
     {
       "text": "알려드릴게요.",
       "fromFrame": 9313,
-      "toFrame": 9346,
+      "toFrame": 9349,
       "scene": "trouble"
     },
     {
       "text": "하나, 퍼블릭 EC2가 인터넷 안 됨.",
-      "fromFrame": 9368,
-      "toFrame": 9469,
+      "fromFrame": 9375,
+      "toFrame": 9483,
       "scene": "trouble"
     },
     {
       "text": "보통 IGW를 만들어놓고 라우팅 테이블",
-      "fromFrame": 9498,
-      "toFrame": 9609,
+      "fromFrame": 9505,
+      "toFrame": 9596,
       "scene": "trouble"
     },
     {
       "text": "연결을 안 한 경우입니다.",
-      "fromFrame": 9609,
-      "toFrame": 9681,
+      "fromFrame": 9596,
+      "toFrame": 9655,
       "scene": "trouble"
     },
     {
       "text": "둘, NAT를 프라이빗 서브넷에 만든",
-      "fromFrame": 9682,
-      "toFrame": 9756,
+      "fromFrame": 9690,
+      "toFrame": 9781,
       "scene": "trouble"
     },
     {
       "text": "케이스.",
-      "fromFrame": 9756,
-      "toFrame": 9774,
+      "fromFrame": 9781,
+      "toFrame": 9803,
       "scene": "trouble"
     },
     {
       "text": "셋, NACL의 임시 포트를 빼먹어서",
-      "fromFrame": 9806,
-      "toFrame": 9910,
+      "fromFrame": 9832,
+      "toFrame": 9942,
       "scene": "trouble"
     },
     {
       "text": "응답이 막힌 경우.",
-      "fromFrame": 9910,
-      "toFrame": 9961,
+      "fromFrame": 9942,
+      "toFrame": 9998,
       "scene": "trouble"
     },
     {
       "text": "이 세 가지만 피해도 절반은 무사합니다.",
-      "fromFrame": 9962,
-      "toFrame": 10051,
+      "fromFrame": 9998,
+      "toFrame": 10087,
       "scene": "trouble"
     },
     {
       "text": "오늘의 다섯 가지 핵심을 정리합니다.",
-      "fromFrame": 10112,
-      "toFrame": 10174,
+      "fromFrame": 10142,
+      "toFrame": 10204,
       "scene": "five_lessons"
     },
     {
       "text": "첫째, VPC는 클라우드의 기본 토대다,",
-      "fromFrame": 10191,
-      "toFrame": 10291,
+      "fromFrame": 10221,
+      "toFrame": 10321,
       "scene": "five_lessons"
     },
     {
       "text": "네트워크를 모르면 아키텍처가 안 짜진다.",
-      "fromFrame": 10291,
-      "toFrame": 10392,
+      "fromFrame": 10321,
+      "toFrame": 10422,
       "scene": "five_lessons"
     },
     {
       "text": "둘째, 퍼블릭과 프라이빗 서브넷 분리가",
-      "fromFrame": 10419,
-      "toFrame": 10512,
+      "fromFrame": 10449,
+      "toFrame": 10542,
       "scene": "five_lessons"
     },
     {
       "text": "보안의 시작이다.",
-      "fromFrame": 10512,
-      "toFrame": 10556,
+      "fromFrame": 10542,
+      "toFrame": 10586,
       "scene": "five_lessons"
     },
     {
       "text": "셋째, 멀티 AZ는 선택이 아닌 필수다.",
-      "fromFrame": 10585,
-      "toFrame": 10704,
+      "fromFrame": 10615,
+      "toFrame": 10734,
       "scene": "five_lessons"
     },
     {
       "text": "넷째, 보안 그룹은 허용만, NACL은",
-      "fromFrame": 10737,
-      "toFrame": 10836,
+      "fromFrame": 10767,
+      "toFrame": 10866,
       "scene": "five_lessons"
     },
     {
       "text": "거부도 가능하다.",
-      "fromFrame": 10836,
-      "toFrame": 10882,
+      "fromFrame": 10866,
+      "toFrame": 10912,
       "scene": "five_lessons"
     },
     {
       "text": "다섯째, NAT 비용을 줄이려면 VPC",
-      "fromFrame": 10914,
-      "toFrame": 11018,
+      "fromFrame": 10944,
+      "toFrame": 11048,
       "scene": "five_lessons"
     },
     {
       "text": "엔드포인트를 먼저 검토하라.",
-      "fromFrame": 11018,
-      "toFrame": 11098,
+      "fromFrame": 11048,
+      "toFrame": 11128,
       "scene": "five_lessons"
     },
     {
       "text": "내일 3일차에는 이 네트워크 위에 올릴",
-      "fromFrame": 11131,
-      "toFrame": 11221,
+      "fromFrame": 11161,
+      "toFrame": 11251,
       "scene": "outro"
     },
     {
       "text": "첫 리소스, EC2 인스턴스와 EBS",
-      "fromFrame": 11221,
-      "toFrame": 11311,
+      "fromFrame": 11251,
+      "toFrame": 11341,
       "scene": "outro"
     },
     {
       "text": "스토리지로 들어갑니다.",
-      "fromFrame": 11311,
-      "toFrame": 11373,
+      "fromFrame": 11341,
+      "toFrame": 11403,
       "scene": "outro"
     },
     {
       "text": "오늘 만든 단단한 네트워크 토대 위에",
-      "fromFrame": 11397,
-      "toFrame": 11485,
+      "fromFrame": 11427,
+      "toFrame": 11515,
       "scene": "outro"
     },
     {
       "text": "진짜 서버를 올려볼 시간이에요.",
-      "fromFrame": 11485,
-      "toFrame": 11566,
+      "fromFrame": 11515,
+      "toFrame": 11596,
       "scene": "outro"
     }
   ]
